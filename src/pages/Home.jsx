@@ -1,17 +1,7 @@
-import { useEffect } from 'react'
 import { useDailyFiles } from '../hooks/useDailyFiles'
-import { useNavigate } from 'react-router-dom'
 
 function Home() {
   const { files, loading } = useDailyFiles()
-  const navigate = useNavigate()
-
-  useEffect(() => {
-    // 如果有日报文件，自动跳转到最新的日报
-    if (!loading && files.length > 0) {
-      navigate(files[0].path)
-    }
-  }, [files, loading, navigate])
 
   return (
     <div className="home-page">
@@ -29,7 +19,17 @@ function Home() {
             <p>暂无日报内容</p>
             <p className="hint">请在 docs/2026-02/ 目录下添加 Markdown 文件</p>
           </div>
-        ) : null}
+        ) : (
+          <div className="home-file-list">
+            {files.map((file, index) => (
+              <a key={file.path} href={`#${file.path}`} className="home-file-item">
+                <div className="home-file-date">{file.title}</div>
+                <div className="home-file-title">{file.fullTitle}</div>
+                {index === 0 && <span className="home-file-badge">NEW</span>}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   )
