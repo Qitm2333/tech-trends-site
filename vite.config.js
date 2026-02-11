@@ -100,7 +100,7 @@ function serveDocsPlugin() {
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/tech-trends-site/',
   plugins: [react(), serveDocsPlugin(), copyDocsToDist()],
   server: {
     port: 3000,

@@ -17,7 +17,8 @@ function DailyReport() {
     const loadContent = async () => {
       try {
         setLoading(true)
-        const response = await fetch(`/docs/2026-02/${date}.md`)
+        const basePath = import.meta.env.BASE_URL || '/'
+        const response = await fetch(`${basePath}docs/2026-02/${date}.md`)
         if (!response.ok) {
           throw new Error('文件不存在')
         }

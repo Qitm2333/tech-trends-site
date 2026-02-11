@@ -1,14 +1,18 @@
 // 自动扫描目录获取日报文件列表
 // 动态扫描 docs/2026-02 目录下的所有 .md 文件
 
+// 获取基础路径
+const getBasePath = () => {
+  return import.meta.env.BASE_URL || '/'
+}
+
 // 尝试从目录索引获取文件列表
 async function fetchDirectoryListing() {
   try {
-    // 尝试获取目录列表（如果服务器支持）
-    const response = await fetch('/docs/2026-02/')
+    const basePath = getBasePath()
+    const response = await fetch(`${basePath}docs/2026-02/`)
     if (response.ok) {
       const html = await response.text()
-      // 解析 HTML 中的文件链接
       const matches = html.match(/href="([^"]+\.md)"/g)
       if (matches) {
         return matches.map(m => m.replace('href="', '').replace('"', ''))
@@ -24,14 +28,14 @@ async function fetchDirectoryListing() {
 async function detectFilesDynamically() {
   const files = []
   const promises = []
+  const basePath = getBasePath()
   
-  // 尝试探测 1-31 日的文件
   for (let day = 1; day <= 31; day++) {
     const dayStr = day.toString().padStart(2, '0')
     const fileName = `${dayStr}.md`
     
     promises.push(
-      fetch(`/docs/2026-02/${fileName}`)
+      fetch(`${basePath}docs/2026-02/${fileName}`)
         .then(async res => {
           const contentType = res.headers.get('Content-Type') || ''
           if (res.ok && (contentType.includes('markdown') || contentType.includes('text/'))) {
@@ -52,28 +56,25 @@ async function detectFilesDynamically() {
 
 export async function scanDailyFiles() {
   const files = []
+  const basePath = getBasePath()
   
-  // 首先尝试获取目录列表
   let fileList = await fetchDirectoryListing()
   
-  // 如果目录列表获取失败，使用动态探测
   if (!fileList || fileList.length === 0) {
     fileList = await detectFilesDynamically()
   }
   
-  // 并行加载所有文件内容
   const filePromises = fileList.map(async (fileName) => {
     const day = fileName.replace('.md', '')
     
     try {
-      const response = await fetch(`/docs/2026-02/${fileName}`)
+      const response = await fetch(`${basePath}docs/2026-02/${fileName}`)
       if (!response.ok) return null
       
       const content = await response.text()
       const titleMatch = content.match(/^#\s+(.+)$/m)
       const title = titleMatch ? titleMatch[1] : `${day}日`
       
-      // 提取标签
       const tags = extractTags(content)
       
       return {
@@ -94,7 +95,6 @@ export async function scanDailyFiles() {
   const results = await Promise.all(filePromises)
   files.push(...results.filter(Boolean))
   
-  // 按日期倒序排列
   files.sort((a, b) => parseInt(b.day) - parseInt(a.day))
   
   console.log(`[fileScanner] 扫描到 ${files.length} 个日报文件:`, files.map(f => f.file))
