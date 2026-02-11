@@ -111,6 +111,9 @@ body {
     padding: var(--space-3);
     padding-top: 60px;
     padding-bottom: 80px;
+    width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
   }
 }
 
