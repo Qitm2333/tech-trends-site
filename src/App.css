@@ -313,6 +313,31 @@
     opacity: 1;
     pointer-events: auto;
   }
+
+  .home-content h1 {
+    font-size: 2rem;
+  }
+
+  .tagline {
+    font-size: 1rem;
+  }
+
+  .home-file-list {
+    text-align: left;
+  }
+
+  .home-file-item {
+    padding: var(--space-3);
+    gap: var(--space-3);
+  }
+
+  .home-file-date {
+    font-size: 0.9rem;
+  }
+
+  .home-file-title {
+    font-size: 0.85rem;
+  }
 }
 
 /* ===== 首页样式 ===== */
@@ -321,10 +346,12 @@
   align-items: center;
   justify-content: center;
   min-height: 60vh;
+  padding: var(--space-4);
 }
 
 .home-content {
   text-align: center;
+  width: 100%;
 }
 
 .home-content h1 {
@@ -344,6 +371,7 @@
   color: var(--color-text-muted);
   font-style: italic;
   margin-bottom: var(--space-8);
+  white-space: nowrap;
 }
 
 .home-file-list {
