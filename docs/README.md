@@ -24,14 +24,14 @@
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">�</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
     <div class="stat-label">Agent爆发</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">GLM-5</span> <span class="tag tag-primary">开源SOTA</span> <span class="tag tag-success">AI Agent</span> <span class="tag">具身原生</span>
+<span class="tag tag-ai">Seedance 2.0</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">GLM-5</span> <span class="tag">AI Agent</span>
 
 **GitHub 热门项目**
 
@@ -43,8 +43,10 @@
 
 **今日 AI 动态**
 
+- **字节Seedance 2.0正式上线** — AI视频生成进入全民时代，全面接入豆包App、即梦AI
 - **OpenAI推出ChatGPT Health** — 正式进军AI医疗，每周服务2.3亿人次健康咨询
 - **智谱发布GLM-5** — 开源SOTA硬刚Claude Opus 4.5，744B参数规模
+- **OpenAI更新GPT-5.2** — ChatGPT即时模型更新，奥特曼官宣小幅改进
 - **谷歌推出Gemini AI购物** — 搜索和Gemini聊天机器人新增AI购物功能
 - **网易发布LobsterAI** — 中国版"OpenClaw"登场，7×24小时个人助理Agent
 - **面壁智能SALA架构** — 9B端侧模型跑通百万上下文，革命性突破
@@ -60,7 +62,7 @@
 
 **今日洞察**
 
-> Agent生态全面爆发！网易LobsterAI、华为DLLMAgent等国产Agent产品集中亮相，与OpenClaw形成竞争格局。OpenAI正式进军AI医疗领域，推出ChatGPT Health每周服务2.3亿人次。谷歌在Gemini中推出AI购物功能，AI电商竞争加剧。开源生态繁荣：字节Protenix-v1硬刚AlphaFold 3、清华Motus超越硅谷40%。具身原生概念兴起，原力灵机定义2026为"具身原生元年"。xAI核心团队动荡，AI人才争夺白热化...
+> 视频生成革命来袭！字节Seedance 2.0正式上线，全面接入豆包App、即梦AI，标志着AI视频生成从实验室走向大众市场，被业内称为"AIGC童年结束"。Agent生态持续爆发：网易LobsterAI、华为DLLMAgent等国产Agent产品集中亮相。OpenAI正式进军AI医疗领域，推出ChatGPT Health每周服务2.3亿人次。智谱GLM-5开源SOTA硬刚Claude Opus 4.5。开源生态繁荣：字节Protenix-v1硬刚AlphaFold 3、清华Motus超越硅谷40%。具身原生概念兴起，原力灵机定义2026为"具身原生元年"...
 
 <div style="margin-top: var(--space-6); text-align: center;">
   <a href="#/2026-02/12" class="btn">阅读完整日报 →</a>
@@ -76,9 +78,9 @@
 
 <div class="news-card">
 
-📅 **02月12日** — [Agent生态爆发，国产Agent密集发布](2026-02/12.md)
+📅 **02月12日** — [视频生成革命+Agent生态双爆发](2026-02/12.md)
 
-<span class="tag tag-ai">AI Agent</span> <span class="tag tag-primary">LobsterAI</span> <span class="tag tag-success">具身原生</span> <span class="tag">开源</span>
+<span class="tag tag-ai">Seedance 2.0</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">GLM-5</span> <span class="tag">AI Agent</span>
 
 </div>
 
@@ -117,7 +119,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-12 22:00</em>
+  <em>最后更新：2026-02-12 23:30</em>
 </p>
 
 </div>
