@@ -16,7 +16,7 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">11</div>
+    <div class="stat-value">14</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
@@ -43,7 +43,9 @@
 
 **今日 AI 动态**
 
+- **OpenAI推出ChatGPT Health** — 正式进军AI医疗，每周服务2.3亿人次健康咨询
 - **智谱发布GLM-5** — 开源SOTA硬刚Claude Opus 4.5，744B参数规模
+- **谷歌推出Gemini AI购物** — 搜索和Gemini聊天机器人新增AI购物功能
 - **网易发布LobsterAI** — 中国版"OpenClaw"登场，7×24小时个人助理Agent
 - **面壁智能SALA架构** — 9B端侧模型跑通百万上下文，革命性突破
 - **讯飞发布星火X2** — 全国产算力训练，293B MoE架构对标国际顶尖
@@ -55,11 +57,10 @@
 - **千问联合飞猪推"千问价"** — 40+旅行品牌接入，单笔最高优惠300元
 - **特斯拉腾讯首次合作** — 微信互联和目的地服务上线
 - **马斯克xAI人才危机** — 极限管理模式可持续性受质疑
-- **AI Agent产品密集发布** — 国产Agent生态进入爆发期
 
 **今日洞察**
 
-> Agent生态全面爆发！网易LobsterAI、华为DLLMAgent等国产Agent产品集中亮相，与OpenClaw形成竞争格局。开源生态繁荣：字节Protenix-v1硬刚AlphaFold 3、清华Motus超越硅谷40%。具身原生概念兴起，原力灵机定义2026为"具身原生元年"。xAI核心团队动荡，AI人才争夺白热化...
+> Agent生态全面爆发！网易LobsterAI、华为DLLMAgent等国产Agent产品集中亮相，与OpenClaw形成竞争格局。OpenAI正式进军AI医疗领域，推出ChatGPT Health每周服务2.3亿人次。谷歌在Gemini中推出AI购物功能，AI电商竞争加剧。开源生态繁荣：字节Protenix-v1硬刚AlphaFold 3、清华Motus超越硅谷40%。具身原生概念兴起，原力灵机定义2026为"具身原生元年"。xAI核心团队动荡，AI人才争夺白热化...
 
 <div style="margin-top: var(--space-6); text-align: center;">
   <a href="#/2026-02/12" class="btn">阅读完整日报 →</a>
