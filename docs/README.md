@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月13日 技术日报](2026-02/13.md)
+### [2026年2月14日 技术日报](2026-02/14.md)
 
 <div class="daily-preview">
 
@@ -16,54 +16,52 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">14</div>
+    <div class="stat-value">12</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">96</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">💰</div>
-    <div class="stat-label">定价革命</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
+    <div class="stat-label">多模态爆发</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">MiniMax M2.5</span> <span class="tag tag-primary">1美元/小时</span> <span class="tag tag-success">Gemini 3</span> <span class="tag">3800亿估值</span>
+<span class="tag tag-ai">豆包2.0</span> <span class="tag tag-primary">Seedance 2.0</span> <span class="tag tag-success">xAI震荡</span> <span class="tag">多模态生态</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **tambo** | 8.2K | React生成式UI SDK，AI驱动界面革命 |
-| 2 | **Personal_AI_Infrastructure** | 12.5K | 个人AI基础设施，增强人类认知 |
-| 3 | **langextract** | 9.8K | Google开源LLM信息提取库 |
+| 1 | **exo** | 37.8K | 家用设备组建AI集群，手机+笔记本跑大模型 |
+| 2 | **browser-use** | 63.4K | AI代理浏览器自动化，执行网页任务 |
+| 3 | **crawl4ai** | 28.5K | LLM友好型网页爬虫，生成结构化数据 |
 
 **今日 AI 动态**
 
-- **MiniMax发布M2.5模型** — 1美元跑1小时，价格仅GPT-5的1/20，击穿全球AI定价体系
-- **谷歌发布Gemini 3 Deep Think** — 深度思考重大升级，ARC-AGI成绩惊人，Alphabet股价飙升
-- **Anthropic完成300亿美元G轮融资** — 估值达3800亿美元，英伟达微软押注
-- **OpenAI发布GPT-5.3-Codex-Spark** — 与Cerebras合作，主打实时编程，一秒回应超1000 Tokens
-- **华为鸿蒙6 AI大模型全量推送** — 第二批开启，覆盖nova、畅享、麦芒等数亿老机型
-- **豆包AI红包今晚8点开抢** — 字节200亿砸春节营销，除夕8888元大奖
-- **苹果AI Siri官宣2026年内必更** — 回应跳票传闻，库克拿出底牌
-- **亚马逊限制员工使用Claude Code** — 力推自研AI编程工具Kiro
-- **OpenAI强制退役GPT-4o** — 曾因"过度拟人化"备受争议的模型今日退役
-- **Google推出非洲语音数据集WAXAL** — 覆盖21种本地语言，助力非洲夺回AI数据主权
-- **智谱GLM-5获摩尔线程适配** — 国产软硬件协同生态进一步完善
-- **港股AI板块强势领涨** — 智谱与MiniMAX市值均破2100亿港元
-- **腾讯元宝10亿现金红包** — 春节AI营销大战与《飞驰人生3》联动
-- **11位数学家发布AI数学挑战** — 2月13日公开答案，GPT和Gemini率先挑战
+- **字节发布豆包大模型2.0** — 三箭齐发：豆包2.0+Seedance 2.0+Seedream 5.0，开启多模态新纪元
+- **xAI创始团队震荡** — 24小时内连失吴宇怀、Jimmy Ba两位华人联合创始人，Grok-4或延迟
+- **智谱GLM-5获深度接入** — WPS灵犀、华为云CodeArts深度接入，推理过程完全可视化
+- **MiniMax M2.5全球开源** — 1万美元=4个Agent全年无休，彻底击穿AI定价体系
+- **月之暗面开源Kimi K2.5** — 多项agent评测全球开源模型最佳成绩
+- **Anthropic超级碗广告见效** — 用户数增长11%，超过其他主要AI公司
+- **OpenAI确认首款硬件设备** — 2026年下半年发布，形态有望为"一支笔"
+- **阿里千问春节活动爆发** — 30亿免单活动5小时千万级订单
+- **Xmax AI发布X1模型** — 全球首个虚实融合实时交互视频模型
+- **科大讯飞年会召开** — 明确2026年国产算力劣势突围战略
+- **谷歌Gemini 3限制开放** — Deep Think模式仅向Ultra订阅用户开放
+- **数学家AI挑战答案公开** — 11位顶尖数学家数学挑战2月13日公开答案
 
 **今日洞察**
 
-> 定价革命来袭！MiniMax M2.5以1美元跑1小时的极致成本，彻底击穿全球AI定价体系，价格仅GPT-5的1/20。深度推理突破：谷歌Gemini 3 Deep Think发布，在ARC-AGI基准测试中表现惊人。AI资本化加速：Anthropic完成300亿美元融资，估值达3800亿美元。实时编程革新：OpenAI与Cerebras合作发布GPT-5.3-Codex-Spark，一秒回应超1000 Tokens。端侧AI普及：华为鸿蒙6 AI大模型全量推送。春节营销大战：字节豆包、阿里千问、腾讯元宝AI红包大战白热化...
+> 多模态AI生态爆发！字节跳动豆包大模型2.0、Seedance 2.0、Seedream 5.0三箭齐发，标志国产大模型迈入工业级视频生成新阶段。xAI遭遇重大人事地震，24小时内连失两位华人联合创始人，核心团队稳定性受质疑。MiniMax M2.5全球开源，1万美元即可支持4个Agent全年无休，AI应用成本大幅下降。智谱GLM-5获WPS灵犀、华为云深度接入，国产软硬件协同生态加速...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/13" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/14" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -73,6 +71,14 @@
 ## 历史归档
 
 ### 2026年2月
+
+<div class="news-card">
+
+📅 **02月14日** — [字节豆包2.0三箭齐发+xAI创始团队震荡+多模态AI生态爆发](2026-02/14.md)
+
+<span class="tag tag-ai">豆包2.0</span> <span class="tag tag-primary">Seedance 2.0</span> <span class="tag tag-success">xAI震荡</span> <span class="tag">多模态生态</span>
+
+</div>
 
 <div class="news-card">
 
@@ -125,7 +131,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-13 23:30</em>
+  <em>最后更新：2026-02-14 23:30</em>
 </p>
 
 </div>
