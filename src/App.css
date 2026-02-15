@@ -1786,6 +1786,310 @@
   }
 }
 
+/* ===== 移动端导出长图样式 ===== */
+.mobile-export {
+  font-size: 0.95rem;
+}
+
+.mobile-export .daily-header {
+  padding: var(--space-5) var(--space-4);
+  margin-bottom: var(--space-4);
+  border-radius: var(--radius-lg);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.mobile-export .daily-header h1 {
+  font-size: 1.5rem;
+  margin-bottom: var(--space-3);
+}
+
+.mobile-export .daily-meta {
+  font-size: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.mobile-export .daily-meta .separator {
+  display: none;
+}
+
+.mobile-export .action-buttons {
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-4);
+}
+
+.mobile-export .markdown-content h1 {
+  font-size: 1.5rem;
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-3);
+}
+
+.mobile-export .markdown-content h2 {
+  font-size: 1.25rem;
+  margin-top: var(--space-6);
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-2);
+}
+
+.mobile-export .markdown-content h3 {
+  font-size: 1.1rem;
+  margin-top: var(--space-5);
+  margin-bottom: var(--space-3);
+}
+
+.mobile-export .markdown-content h4 {
+  font-size: 1rem;
+  margin-top: var(--space-4);
+  margin-bottom: var(--space-2);
+}
+
+.mobile-export .markdown-content p {
+  font-size: 0.95rem;
+  margin-bottom: var(--space-4);
+  line-height: 1.75;
+}
+
+.mobile-export .markdown-content ul,
+.mobile-export .markdown-content ol {
+  padding-left: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+
+.mobile-export .markdown-content li {
+  font-size: 0.95rem;
+  margin-bottom: var(--space-2);
+  line-height: 1.7;
+}
+
+.mobile-export .markdown-content blockquote {
+  margin: var(--space-5) 0;
+  padding: var(--space-4) var(--space-5);
+}
+
+.mobile-export .markdown-content pre {
+  padding: var(--space-4);
+  margin: var(--space-4) 0;
+  border-radius: var(--radius-md);
+}
+
+.mobile-export .markdown-content pre code {
+  font-size: 0.8rem;
+}
+
+.mobile-export .markdown-content hr {
+  margin: var(--space-6) 0;
+}
+
+.mobile-export .stats-grid {
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+  margin: var(--space-4) 0;
+}
+
+.mobile-export .stat-item {
+  padding: var(--space-4) var(--space-3);
+  border-radius: var(--radius-lg);
+}
+
+.mobile-export .stat-value {
+  font-size: 1.5rem;
+}
+
+.mobile-export .stat-label {
+  font-size: 0.7rem;
+  margin-top: var(--space-2);
+}
+
+.mobile-export .project-card {
+  margin: var(--space-4) 0;
+  border-radius: var(--radius-lg);
+}
+
+.mobile-export .project-card-header {
+  padding: var(--space-4);
+  min-height: 52px;
+}
+
+.mobile-export .project-card-header h4 {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.mobile-export .project-card-toggle {
+  font-size: 1rem;
+}
+
+.mobile-export .project-card-basic {
+  padding: var(--space-3) var(--space-4);
+  gap: var(--space-2);
+}
+
+.mobile-export .project-card.expanded .project-card-content {
+  padding: var(--space-4);
+}
+
+.mobile-export .tag {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.7rem;
+  margin-right: var(--space-1);
+  margin-bottom: var(--space-1);
+}
+
+.mobile-export .news-card {
+  padding: var(--space-4);
+  margin: var(--space-4) 0;
+  border-radius: var(--radius-lg);
+}
+
+.mobile-export .news-card h4 {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.mobile-export .news-card.priority-high {
+  border-left-width: 3px;
+}
+
+.mobile-export .markdown-table {
+  display: block;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.mobile-export .markdown-table thead {
+  display: none;
+}
+
+.mobile-export .markdown-table tbody {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  padding: 0;
+}
+
+.mobile-export .markdown-table tbody tr {
+  display: flex;
+  flex-direction: column;
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-md);
+  padding: var(--space-3);
+  border: 1px solid var(--color-border-light);
+  gap: var(--space-1);
+}
+
+.mobile-export .markdown-table td {
+  padding: 0;
+  border: none;
+  white-space: normal;
+  word-wrap: break-word;
+}
+
+.mobile-export .markdown-table td:first-child {
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: var(--color-text-primary);
+}
+
+.mobile-export .markdown-table td:nth-child(2) {
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+  line-height: 1.5;
+}
+
+.mobile-export .markdown-table td:nth-child(3) {
+  font-size: 0.7rem;
+  color: var(--color-primary);
+}
+
+.mobile-export .news-card .markdown-table td {
+  padding: 0;
+  font-size: 0.75rem;
+}
+
+.mobile-export .news-card .markdown-table td:first-child {
+  font-size: 0.8rem;
+}
+
+.mobile-export .news-card .markdown-table td:nth-child(2) {
+  font-size: 0.75rem;
+}
+
+.mobile-export .news-card .markdown-table td:nth-child(3) {
+  font-size: 0.7rem;
+}
+
+.mobile-export .news-card table {
+  display: block !important;
+  width: 100% !important;
+  overflow-x: hidden !important;
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  margin: var(--space-3) 0 !important;
+}
+
+.mobile-export .news-card thead {
+  display: none !important;
+}
+
+.mobile-export .news-card tbody {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: var(--space-2) !important;
+  padding: 0 !important;
+}
+
+.mobile-export .news-card tbody tr {
+  display: flex !important;
+  flex-direction: column !important;
+  background: var(--color-bg-secondary) !important;
+  border-radius: var(--radius-md) !important;
+  padding: var(--space-3) !important;
+  border: 1px solid var(--color-border-light) !important;
+  gap: var(--space-1) !important;
+  align-items: flex-start !important;
+}
+
+.mobile-export .news-card tbody tr:hover {
+  background: var(--color-bg-secondary) !important;
+  transform: none !important;
+}
+
+.mobile-export .news-card td {
+  display: block !important;
+  padding: 0 !important;
+  border: none !important;
+  white-space: normal !important;
+  word-wrap: break-word !important;
+  width: 100% !important;
+  text-align: left !important;
+}
+
+.mobile-export .news-card td:first-child {
+  font-weight: 600 !important;
+  font-size: 0.85rem !important;
+  color: var(--color-text-primary) !important;
+  background: none !important;
+  width: auto !important;
+  height: auto !important;
+  border-radius: 0 !important;
+  white-space: nowrap !important;
+  word-wrap: normal !important;
+}
+
+.mobile-export .news-card td:nth-child(2) {
+  font-size: 0.8rem !important;
+  color: var(--color-text-secondary) !important;
+  line-height: 1.5 !important;
+}
+
+.mobile-export .news-card td:nth-child(3) {
+  font-size: 0.75rem !important;
+}
+
 /* ===== 打印样式 - 无缝打印优化 ===== */
 @media print {
   /* 隐藏不需要打印的元素 */

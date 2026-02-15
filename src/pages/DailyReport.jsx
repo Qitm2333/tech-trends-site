@@ -65,11 +65,9 @@ function DailyReport() {
   const handleExportImage = async () => {
     setIsExporting(true)
     
-    // 保存原始滚动位置
     const originalScrollTop = window.pageYOffset || document.documentElement.scrollTop
     
     try {
-      // 动态加载 html2canvas CDN
       if (!window.html2canvas) {
         await new Promise((resolve, reject) => {
           const script = document.createElement('script')
@@ -81,29 +79,28 @@ function DailyReport() {
       }
       
       if (captureRef.current && window.html2canvas) {
-        // 先展开所有内容
         const expandAllEvent = new CustomEvent('expand-all-for-export')
         document.dispatchEvent(expandAllEvent)
         
-        // 等待内容展开和渲染完成
         await new Promise(resolve => setTimeout(resolve, 500))
         
-        // 获取完整内容的实际尺寸
+        const isMobileView = window.innerWidth <= 768
+        const exportWidth = isMobileView ? 375 : 880
+        const exportPadding = isMobileView ? 16 : 40
+        
         const element = captureRef.current
         const rect = element.getBoundingClientRect()
         
-        // 创建一个新的容器来包裹所有内容
         const wrapper = document.createElement('div')
         wrapper.style.position = 'fixed'
         wrapper.style.left = '-9999px'
         wrapper.style.top = '0'
-        wrapper.style.width = '880px'
+        wrapper.style.width = `${exportWidth}px`
         wrapper.style.backgroundColor = '#faf9f7'
         wrapper.style.zIndex = '-9999'
-        wrapper.style.padding = '40px'
+        wrapper.style.padding = `${exportPadding}px`
         wrapper.style.boxSizing = 'border-box'
         
-        // 克隆内容
         const clone = element.cloneNode(true)
         clone.style.width = '100%'
         clone.style.height = 'auto'
@@ -112,21 +109,23 @@ function DailyReport() {
         clone.style.margin = '0'
         clone.style.padding = '0'
         
-        // 确保所有卡片都展开
+        if (isMobileView) {
+          clone.classList.add('mobile-export')
+        }
+        
         const cards = clone.querySelectorAll('.project-card')
         cards.forEach(card => {
           card.classList.add('expanded')
           card.style.width = '100%'
-          card.style.margin = '15px 0'
+          card.style.margin = isMobileView ? '12px 0' : '15px 0'
           const content = card.querySelector('.project-card-content')
           if (content) {
             content.style.maxHeight = 'none'
-            content.style.padding = '20px'
+            content.style.padding = isMobileView ? '16px' : '20px'
             content.style.overflow = 'visible'
           }
         })
         
-        // 修复 markdown-content 样式
         const markdownContent = clone.querySelector('.markdown-content')
         if (markdownContent) {
           markdownContent.style.width = '100%'
@@ -136,7 +135,6 @@ function DailyReport() {
         wrapper.appendChild(clone)
         document.body.appendChild(wrapper)
         
-        // 等待克隆的内容渲染
         await new Promise(resolve => setTimeout(resolve, 300))
         
         const canvas = await window.html2canvas(wrapper, {
@@ -145,13 +143,12 @@ function DailyReport() {
           allowTaint: true,
           backgroundColor: '#faf9f7',
           logging: false,
-          width: 880,
+          width: exportWidth,
           height: wrapper.scrollHeight,
-          windowWidth: 880,
+          windowWidth: exportWidth,
           windowHeight: wrapper.scrollHeight,
         })
         
-        // 清理临时元素
         document.body.removeChild(wrapper)
         
         const link = document.createElement('a')
@@ -163,7 +160,6 @@ function DailyReport() {
       console.error('导出图片失败:', err)
       alert('导出图片失败，请重试')
     } finally {
-      // 恢复滚动位置
       window.scrollTo(0, originalScrollTop)
       setIsExporting(false)
     }
