@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月14日 技术日报](2026-02/14.md)
+### [2026年2月15日 技术日报](2026-02/15.md)
 
 <div class="daily-preview">
 
@@ -16,52 +16,50 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">12</div>
+    <div class="stat-value">10</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">96</div>
+    <div class="stat-value">94</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
-    <div class="stat-label">多模态爆发</div>
+    <div class="stat-value" style="font-size: 1.75rem;">⚠️</div>
+    <div class="stat-label">安全预警</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">豆包2.0</span> <span class="tag tag-primary">Seedance 2.0</span> <span class="tag tag-success">xAI震荡</span> <span class="tag">多模态生态</span>
+<span class="tag tag-ai">ASL-4预警</span> <span class="tag tag-primary">国产算力适配</span> <span class="tag tag-success">Agentic Memory</span> <span class="tag">蒸馏攻击</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **exo** | 37.8K | 家用设备组建AI集群，手机+笔记本跑大模型 |
-| 2 | **browser-use** | 63.4K | AI代理浏览器自动化，执行网页任务 |
-| 3 | **crawl4ai** | 28.5K | LLM友好型网页爬虫，生成结构化数据 |
+| 1 | **exo** | 38.2K | 家用设备组建AI集群，手机+笔记本跑大模型 |
+| 2 | **browser-use** | 64.1K | AI代理浏览器自动化，执行网页任务 |
+| 3 | **MemBrain** | 2.8K | Agentic Memory系统，拿下多项SOTA |
 
 **今日 AI 动态**
 
-- **字节发布豆包大模型2.0** — 三箭齐发：豆包2.0+Seedance 2.0+Seedream 5.0，开启多模态新纪元
-- **xAI创始团队震荡** — 24小时内连失吴宇怀、Jimmy Ba两位华人联合创始人，Grok-4或延迟
-- **智谱GLM-5获深度接入** — WPS灵犀、华为云CodeArts深度接入，推理过程完全可视化
-- **MiniMax M2.5全球开源** — 1万美元=4个Agent全年无休，彻底击穿AI定价体系
-- **月之暗面开源Kimi K2.5** — 多项agent评测全球开源模型最佳成绩
-- **Anthropic超级碗广告见效** — 用户数增长11%，超过其他主要AI公司
-- **OpenAI确认首款硬件设备** — 2026年下半年发布，形态有望为"一支笔"
-- **阿里千问春节活动爆发** — 30亿免单活动5小时千万级订单
-- **Xmax AI发布X1模型** — 全球首个虚实融合实时交互视频模型
-- **科大讯飞年会召开** — 明确2026年国产算力劣势突围战略
-- **谷歌Gemini 3限制开放** — Deep Think模式仅向Ultra订阅用户开放
-- **数学家AI挑战答案公开** — 11位顶尖数学家数学挑战2月13日公开答案
+- **Anthropic发布53页安全报告** — Claude Opus 4.6逼近ASL-4风险阈值，首次有模型接近灾难性安全门槛
+- **国产算力适配加速** — 华为昇腾、摩尔线程数小时内完成MiniMax M2.5适配，响应速度创纪录
+- **谷歌Gemini遭蒸馏攻击** — 单次攻击提示超10万次，训练数据泄露风险上升
+- **首个大规模记忆湖发布** — AI Infra进入"记忆"时代，Agentic Memory成为新热点
+- **DeepSeek V4进入最终测试** — 预计2月中旬发布，编程能力或超越Claude/GPT
+- **xAI安全体系遭质疑** — 前员工爆料安全体系"名存实亡"，马斯克被指刻意让Grok更"失控"
+- **科大讯飞明确突围战略** — 2025-2026年会召开，明确走国产算力劣势突围之路
+- **Meta计划添加面部识别** — 智能眼镜将支持面部识别功能，引发隐私担忧
+- **谷歌AI购物功能上线** — AI购物功能嵌入搜索和Gemini，支持个性化推荐
+- **智谱GLM-5预告两周内发布** — 上市后首款旗舰大模型即将亮相
 
 **今日洞察**
 
-> 多模态AI生态爆发！字节跳动豆包大模型2.0、Seedance 2.0、Seedream 5.0三箭齐发，标志国产大模型迈入工业级视频生成新阶段。xAI遭遇重大人事地震，24小时内连失两位华人联合创始人，核心团队稳定性受质疑。MiniMax M2.5全球开源，1万美元即可支持4个Agent全年无休，AI应用成本大幅下降。智谱GLM-5获WPS灵犀、华为云深度接入，国产软硬件协同生态加速...
+> AI安全进入新阶段！Anthropic 53页报告预警Claude逼近ASL-4阈值，这是首次有模型接近灾难性安全门槛，行业安全标准面临重塑。国产算力适配速度创纪录——昇腾、摩尔线程在MiniMax M2.5开源后数小时内即完成适配，证明国产GPU已可承载顶级大模型。Agentic Memory成为新竞争焦点，MemBrain等项目拿下多项SOTA，AI从"无状态"向"有记忆"转变。谷歌Gemini遭遇大规模蒸馏攻击，模型安全面临新挑战...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/14" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/15" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -71,6 +69,14 @@
 ## 历史归档
 
 ### 2026年2月
+
+<div class="news-card">
+
+📅 **02月15日** — [Anthropic ASL-4安全预警+国产算力适配加速+Agentic Memory爆发](2026-02/15.md)
+
+<span class="tag tag-ai">ASL-4预警</span> <span class="tag tag-primary">国产算力适配</span> <span class="tag tag-success">Agentic Memory</span> <span class="tag">蒸馏攻击</span>
+
+</div>
 
 <div class="news-card">
 
@@ -131,7 +137,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-14 23:30</em>
+  <em>最后更新：2026-02-15 23:30</em>
 </p>
 
 </div>
