@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月16日 技术日报](2026-02/16.md)
+### [2026年2月18日 技术日报](2026-02/18.md)
 
 <div class="daily-preview">
 
@@ -16,51 +16,73 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">12</div>
+    <div class="stat-value">14</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">96</div>
+    <div class="stat-value">98</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
-    <div class="stat-label">春节档爆发</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
+    <div class="stat-label">智能体爆发</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">Qwen3.5开源</span> <span class="tag tag-primary">AI编程革命</span> <span class="tag tag-success">军事化伦理</span> <span class="tag">人才争夺</span>
+<span class="tag tag-ai">Sonnet 4.6</span> <span class="tag tag-primary">快速学习</span> <span class="tag tag-success">算力竞赛</span> <span class="tag">百亿融资</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **nautilus_trader** | 4.2K | Rust高性能算法交易平台，事件驱动回测 |
-| 2 | **openclaw** | 8.2K | 个人AI助手，创始人被OpenAI挖角 |
-| 3 | **rowboat** | 2.1K | 开源AI同事系统，具备记忆能力 |
+| 1 | **openclaw** | 193K | 跨平台个人AI助手，创始人被OpenAI挖角 |
+| 2 | **nautilus_trader** | 4.5K | Rust高性能算法交易平台，事件驱动回测 |
+| 3 | **rowboat** | 2.3K | 开源AI同事系统，具备记忆能力 |
 
 **今日 AI 动态**
 
-- **阿里除夕夜开源Qwen3.5** — 国产大模型春节档再掀高潮，架构全面创新，长文本能力提升40%
-- **马斯克预言编程职业将消失** — 2026年底AI将直接生成二进制文件，Grok 4.20下周发布
-- **五角大楼考虑终止Anthropic合作** — AI军事化争议爆发，2亿美元合同面临终止
-- **OpenAI挖角OpenClaw创始人** — 加码个人AI智能体，80%APP或被取代
-- **Meta"牛油果"模型曝光** — 计算效率提升10-100倍，号称迄今最强基座
-- **百川智能医疗大模型创纪录** — Baichuan-M3 Plus幻觉率全球新低2.6%
-- **龙芯3B6000M跑通OpenClaw** — 纯国产芯片首次跑通AI智能体
-- **千问APP春节免单爆火** — 9小时订单超1000万单，验证AI生活场景落地
-- **谷歌Gemini遭蒸馏攻击** — 单次攻击提示超10万次，训练数据泄露风险上升
-- **豆包登陆2026总台春晚** — 为全国观众准备10万份科技好礼
+- **Anthropic半月两发Sonnet 4.6** — 史上最强Sonnet登场，操作电脑接近人类，中端定价旗舰性能
+- **马斯克官宣Grok 4.2公测** — 新增"快速学习"能力，AI进化进入周更时代
+- **Meta与英伟达数十亿美元合作** — 数百万颗芯片大单，Grace CPU首次独立大规模部署
+- **月之暗面Kimi完成超7亿美元融资** — 阿里腾讯联合领投，估值突破100-120亿美元
+- **谷歌I/O定档5月19日** — 将发布Gemini更新和首款AI智能眼镜
+- **OpenClaw v2026.2.17发布** — 支持Sonnet 4.6和1M超长上下文，子Agent功能增强
+- **春晚机器人天团亮相** — 宇树、松延动力等四家国产机器人登台，商业化落地成焦点
+- **印度AI影响力峰会开幕** — 被称为"史上规模最大"AI峰会，莫迪将发表演讲
+- **美联储：AI投资2026年将超7000亿美元** — 大量资金流向加速器和CPU等核心硬件
+- **英特尔预测日本AI PC渗透率将突破50%** — Panther Lake平台助推AI能力普及
 
 **今日洞察**
 
-> 国产大模型春节档全面爆发！阿里Qwen3.5除夕开源，与智谱GLM-5、MiniMax M2.5、字节豆包2.0形成"AI最强春节档"。马斯克预言2026年底AI将直接生成二进制，编程职业面临根本性变革。五角大楼与Anthropic因军事化应用分歧爆发2亿美元合同危机，AI伦理边界引发全球讨论。OpenAI挖角OpenClaw创始人，个人AI智能体成为巨头必争之地...
+> AI智能体能力迎来质的飞跃！Anthropic半月两发新模型，Sonnet 4.6操作电脑接近人类水平。马斯克Grok 4.2开启"快速学习"革命，AI进化速度进入周更时代。Meta与英伟达数十亿美元合作，Grace CPU首次独立部署，算力军备竞赛白热化。月之暗面Kimi完成超7亿美元融资，阿里腾讯同时入局，国产大模型估值破百亿...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/16" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/18" class="btn">阅读完整日报 →</a>
 </div>
+
+</div>
+
+---
+
+## 历史归档
+
+### 2026年2月
+
+<div class="news-card">
+
+📅 **02月18日** — [AI智能体爆发+算力军备竞赛+快速学习革命](2026-02/18.md)
+
+<span class="tag tag-ai">Sonnet 4.6</span> <span class="tag tag-primary">快速学习</span> <span class="tag tag-success">算力竞赛</span> <span class="tag">百亿融资</span>
+
+</div>
+
+<div class="news-card">
+
+📅 **02月16日** — [阿里Qwen3.5开源+AI编程革命+军事化伦理争议](2026-02/16.md)
+
+<span class="tag tag-ai">Qwen3.5开源</span> <span class="tag tag-primary">AI编程革命</span> <span class="tag tag-success">军事化伦理</span> <span class="tag">人才争夺</span>
 
 </div>
 
@@ -137,7 +159,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-16 12:00</em>
+  <em>最后更新：2026-02-18 12:00</em>
 </p>
 
 </div>
