@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月18日 技术日报](2026-02/18.md)
+### [2026年2月19日 技术日报](2026-02/19.md)
 
 <div class="daily-preview">
 
@@ -16,50 +16,50 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">14</div>
+    <div class="stat-value">12</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">96</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
-    <div class="stat-label">智能体爆发</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🏥</div>
+    <div class="stat-label">医疗AI突破</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">Sonnet 4.6</span> <span class="tag tag-primary">快速学习</span> <span class="tag tag-success">算力竞赛</span> <span class="tag">百亿融资</span>
+<span class="tag tag-ai">医疗AI</span> <span class="tag tag-primary">算力竞赛</span> <span class="tag tag-success">GTC预告</span> <span class="tag">120亿估值</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **openclaw** | 193K | 跨平台个人AI助手，创始人被OpenAI挖角 |
-| 2 | **nautilus_trader** | 4.5K | Rust高性能算法交易平台，事件驱动回测 |
-| 3 | **rowboat** | 2.3K | 开源AI同事系统，具备记忆能力 |
+| 1 | **nautilus_trader** | 19.3K | Rust高性能算法交易平台，事件驱动回测 |
+| 2 | **gogcli** | 3.9K | Google套件CLI工具，一站式管理Gmail/日历/云盘 |
+| 3 | **rowboat** | 6.8K | 开源AI同事系统，具备长期记忆能力 |
 
 **今日 AI 动态**
 
-- **Anthropic半月两发Sonnet 4.6** — 史上最强Sonnet登场，操作电脑接近人类，中端定价旗舰性能
-- **马斯克官宣Grok 4.2公测** — 新增"快速学习"能力，AI进化进入周更时代
+- **DeepRare登上《自然》** — 全球首个推理可追溯罕见病AI诊断系统，准确率提升24个百分点
+- **黄仁勋预告GTC重磅芯片** — 3月16日发布"世界前所未见"芯片，HBM4堆叠技术或成里程碑
 - **Meta与英伟达数十亿美元合作** — 数百万颗芯片大单，Grace CPU首次独立大规模部署
-- **月之暗面Kimi完成超7亿美元融资** — 阿里腾讯联合领投，估值突破100-120亿美元
-- **谷歌I/O定档5月19日** — 将发布Gemini更新和首款AI智能眼镜
-- **OpenClaw v2026.2.17发布** — 支持Sonnet 4.6和1M超长上下文，子Agent功能增强
-- **春晚机器人天团亮相** — 宇树、松延动力等四家国产机器人登台，商业化落地成焦点
-- **印度AI影响力峰会开幕** — 被称为"史上规模最大"AI峰会，莫迪将发表演讲
+- **OpenEvidence估值120亿美元** — 医疗AI垂类深耕模式获资本市场认可
+- **印度AI影响力峰会开幕** — 莫迪将发表演讲，预计吸引2000亿美元AI投资
 - **美联储：AI投资2026年将超7000亿美元** — 大量资金流向加速器和CPU等核心硬件
+- **Meta计划推出AI智能手表** — 剑指苹果、三星，同时升级雷朋Display智能眼镜
+- **春晚机器人引发外媒热议** — 路透社评价中国机器人性能提升"令人瞩目"
+- **美国财政部发布AI金融安全六项资源** — 加强AI在金融服务领域的监管框架
 - **英特尔预测日本AI PC渗透率将突破50%** — Panther Lake平台助推AI能力普及
 
 **今日洞察**
 
-> AI智能体能力迎来质的飞跃！Anthropic半月两发新模型，Sonnet 4.6操作电脑接近人类水平。马斯克Grok 4.2开启"快速学习"革命，AI进化速度进入周更时代。Meta与英伟达数十亿美元合作，Grace CPU首次独立部署，算力军备竞赛白热化。月之暗面Kimi完成超7亿美元融资，阿里腾讯同时入局，国产大模型估值破百亿...
+> 医疗AI迎来可信化突破！DeepRare推理可追溯系统登上《自然》，破解医疗AI"黑盒"难题。黄仁勋预告GTC将发布"世界前所未见"芯片，Meta与英伟达数十亿美元合作，算力军备竞赛再升级。OpenEvidence 120亿美元估值证明垂类AI深耕价值，印度AI峰会开幕预计吸引2000亿美元投资，全球AI产业格局正在重塑...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/18" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/19" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -69,6 +69,14 @@
 ## 历史归档
 
 ### 2026年2月
+
+<div class="news-card">
+
+📅 **02月19日** — [医疗AI突破+算力军备竞赛+GTC重磅预告](2026-02/19.md)
+
+<span class="tag tag-ai">医疗AI</span> <span class="tag tag-primary">算力竞赛</span> <span class="tag tag-success">GTC预告</span> <span class="tag">120亿估值</span>
+
+</div>
 
 <div class="news-card">
 
@@ -159,7 +167,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-18 12:00</em>
+  <em>最后更新：2026-02-19 14:00</em>
 </p>
 
 </div>
