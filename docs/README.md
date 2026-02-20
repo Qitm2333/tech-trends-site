@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月19日 技术日报](2026-02/19.md)
+### [2026年2月20日 技术日报](2026-02/20.md)
 
 <div class="daily-preview">
 
@@ -16,50 +16,51 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">12</div>
+    <div class="stat-value">11</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">96</div>
+    <div class="stat-value">98</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🏥</div>
-    <div class="stat-label">医疗AI突破</div>
+    <div class="stat-value" style="font-size: 1.75rem;">💰</div>
+    <div class="stat-label">千亿融资</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">医疗AI</span> <span class="tag tag-primary">算力竞赛</span> <span class="tag tag-success">GTC预告</span> <span class="tag">120亿估值</span>
+<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">6G突破</span> <span class="tag tag-success">Kimi智能体</span> <span class="tag">谷歌I/O</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **nautilus_trader** | 19.3K | Rust高性能算法交易平台，事件驱动回测 |
-| 2 | **gogcli** | 3.9K | Google套件CLI工具，一站式管理Gmail/日历/云盘 |
-| 3 | **rowboat** | 6.8K | 开源AI同事系统，具备长期记忆能力 |
+| 1 | **openclaw** | 195K | 跨平台个人AI助手，创始人被OpenAI挖角 |
+| 2 | **superpowers** | 3.2K | Agentic技能框架与软件开发方法论 |
+| 3 | **claude-code-telegram** | 2.8K | Telegram机器人远程访问Claude Code |
 
 **今日 AI 动态**
 
-- **DeepRare登上《自然》** — 全球首个推理可追溯罕见病AI诊断系统，准确率提升24个百分点
-- **黄仁勋预告GTC重磅芯片** — 3月16日发布"世界前所未见"芯片，HBM4堆叠技术或成里程碑
-- **Meta与英伟达数十亿美元合作** — 数百万颗芯片大单，Grace CPU首次独立大规模部署
-- **OpenEvidence估值120亿美元** — 医疗AI垂类深耕模式获资本市场认可
-- **印度AI影响力峰会开幕** — 莫迪将发表演讲，预计吸引2000亿美元AI投资
-- **美联储：AI投资2026年将超7000亿美元** — 大量资金流向加速器和CPU等核心硬件
-- **Meta计划推出AI智能手表** — 剑指苹果、三星，同时升级雷朋Display智能眼镜
-- **春晚机器人引发外媒热议** — 路透社评价中国机器人性能提升"令人瞩目"
-- **美国财政部发布AI金融安全六项资源** — 加强AI在金融服务领域的监管框架
-- **英特尔预测日本AI PC渗透率将突破50%** — Panther Lake平台助推AI能力普及
+- **OpenAI敲定1000亿美元融资** — 估值达8300亿美元，软银领投300亿、亚马逊参投500亿
+- **谷歌Gemini 3.1 Pro发布** — 推理能力翻倍，ARC-AGI-2测试77.1%登顶公开模型榜首
+- **中国6G突破登上《自然》** — 北大团队光通信成果刷新三项世界纪录，实现"换道超车"
+- **Kimi Claw Beta正式上线** — 一键部署OpenClaw，支持调用5000+社区插件
+- **谷歌I/O 2026定档5月19日** — 将发布消费级AI眼镜，Gemini生态全面升级
+- **英伟达预告GTC重磅芯片** — 黄仁勋称将发布"世界前所未见"全新芯片
+- **谷歌Lyria 3音乐生成上线** — 集成Gemini应用，支持多模态输入创作音乐
+- **Meta重启智能手表项目** — 代号Malibu 2，主打AI健康监测与眼镜联动
+- **谷歌印度AI峰会开幕** — Sam Altman出席，印度预计吸引2000亿美元AI投资
+- **美联储：AI投资将超7000亿美元** — 大型科技公司2026年AI基建投入创新高
+- **国产超低温电池突破** — 中科院-70℃锂电池漠河测试成功，极寒续航大幅提升
 
 **今日洞察**
 
-> 医疗AI迎来可信化突破！DeepRare推理可追溯系统登上《自然》，破解医疗AI"黑盒"难题。黄仁勋预告GTC将发布"世界前所未见"芯片，Meta与英伟达数十亿美元合作，算力军备竞赛再升级。OpenEvidence 120亿美元估值证明垂类AI深耕价值，印度AI峰会开幕预计吸引2000亿美元投资，全球AI产业格局正在重塑...
+> OpenAI千亿融资创历史纪录，AI行业竞争彻底转向重资产模式！中国6G光通信突破登上《自然》，北大团队刷新三项世界纪录。Kimi Claw Beta上线标志智能体生态成型，谷歌I/O定档将发布AI眼镜。全球AI产业进入资本与技术双爆发期...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/19" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/20" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -69,6 +70,14 @@
 ## 历史归档
 
 ### 2026年2月
+
+<div class="news-card">
+
+📅 **02月20日** — [OpenAI千亿融资+中国6G突破+Kimi智能体生态](2026-02/20.md)
+
+<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">6G突破</span> <span class="tag tag-success">Kimi智能体</span> <span class="tag">谷歌I/O</span>
+
+</div>
 
 <div class="news-card">
 
@@ -85,20 +94,6 @@
 <span class="tag tag-ai">Sonnet 4.6</span> <span class="tag tag-primary">快速学习</span> <span class="tag tag-success">算力竞赛</span> <span class="tag">百亿融资</span>
 
 </div>
-
-<div class="news-card">
-
-📅 **02月16日** — [阿里Qwen3.5开源+AI编程革命+军事化伦理争议](2026-02/16.md)
-
-<span class="tag tag-ai">Qwen3.5开源</span> <span class="tag tag-primary">AI编程革命</span> <span class="tag tag-success">军事化伦理</span> <span class="tag">人才争夺</span>
-
-</div>
-
----
-
-## 历史归档
-
-### 2026年2月
 
 <div class="news-card">
 
@@ -167,7 +162,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-19 14:00</em>
+  <em>最后更新：2026-02-20 12:00</em>
 </p>
 
 </div>
