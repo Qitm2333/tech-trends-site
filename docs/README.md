@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月20日 技术日报](2026-02/20.md)
+### [2026年2月21日 技术日报](2026-02/21.md)
 
 <div class="daily-preview">
 
@@ -16,51 +16,48 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">11</div>
+    <div class="stat-value">8</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">95</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">💰</div>
-    <div class="stat-label">千亿融资</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
+    <div class="stat-label">百亿估值</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">6G突破</span> <span class="tag tag-success">Kimi智能体</span> <span class="tag">谷歌I/O</span>
+<span class="tag tag-ai">百亿估值</span> <span class="tag tag-primary">量子突破</span> <span class="tag tag-success">快速学习</span> <span class="tag">国产模型</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **openclaw** | 195K | 跨平台个人AI助手，创始人被OpenAI挖角 |
-| 2 | **superpowers** | 3.2K | Agentic技能框架与软件开发方法论 |
-| 3 | **claude-code-telegram** | 2.8K | Telegram机器人远程访问Claude Code |
+| 1 | **pentagi** | 2.1K | 全自主AI渗透测试Agent系统 |
+| 2 | **electrobun** | 3.8K | 超快速跨平台桌面应用开发框架 |
+| 3 | **superpowers** | 3.2K | Agentic技能框架与软件开发方法论 |
 
 **今日 AI 动态**
 
-- **OpenAI敲定1000亿美元融资** — 估值达8300亿美元，软银领投300亿、亚马逊参投500亿
-- **谷歌Gemini 3.1 Pro发布** — 推理能力翻倍，ARC-AGI-2测试77.1%登顶公开模型榜首
-- **中国6G突破登上《自然》** — 北大团队光通信成果刷新三项世界纪录，实现"换道超车"
-- **Kimi Claw Beta正式上线** — 一键部署OpenClaw，支持调用5000+社区插件
-- **谷歌I/O 2026定档5月19日** — 将发布消费级AI眼镜，Gemini生态全面升级
-- **英伟达预告GTC重磅芯片** — 黄仁勋称将发布"世界前所未见"全新芯片
-- **谷歌Lyria 3音乐生成上线** — 集成Gemini应用，支持多模态输入创作音乐
-- **Meta重启智能手表项目** — 代号Malibu 2，主打AI健康监测与眼镜联动
-- **谷歌印度AI峰会开幕** — Sam Altman出席，印度预计吸引2000亿美元AI投资
-- **美联储：AI投资将超7000亿美元** — 大型科技公司2026年AI基建投入创新高
-- **国产超低温电池突破** — 中科院-70℃锂电池漠河测试成功，极寒续航大幅提升
+- **Kimi估值破100亿美元** — 40天内融资超12亿美元，阿里腾讯联合领投
+- **xAI Grok 4.2公测上线** — "快速学习"能力打破大模型传统迭代范式
+- **中国量子网络突破** — 潘建伟团队破解30年难题，构建全球首个可扩展量子中继模块
+- **谷歌Gemini 3.1 Pro免费升级** — 推理能力翻倍，价格保持不变
+- **智谱启动算力合伙人招募** — 应对GLM-5需求激增，缓解算力供需矛盾
+- **DeepSeek V4灰度测试** — 上下文长度提升至100万Token
+- **阿里Qwen3.5登顶开源模型** — 除夕发布，性能超越万亿参数模型
+- **字节豆包2.0正式发布** — 全系列产品包括Seedance 2.0视频生成模型
 
 **今日洞察**
 
-> OpenAI千亿融资创历史纪录，AI行业竞争彻底转向重资产模式！中国6G光通信突破登上《自然》，北大团队刷新三项世界纪录。Kimi Claw Beta上线标志智能体生态成型，谷歌I/O定档将发布AI眼镜。全球AI产业进入资本与技术双爆发期...
+> 中国AI独角兽崛起！Kimi估值破100亿美元，40天内融资超12亿美元创纪录。潘建伟团队破解量子通信30年难题，中国成为量子网络"规则制定者"。xAI Grok 4.2确立每周迭代节奏，"快速学习"革命开启。国产大模型春节档全面爆发...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/20" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/21" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -70,6 +67,14 @@
 ## 历史归档
 
 ### 2026年2月
+
+<div class="news-card">
+
+📅 **02月21日** — [Kimi百亿估值+量子网络突破+Grok快速学习](2026-02/21.md)
+
+<span class="tag tag-ai">百亿估值</span> <span class="tag tag-primary">量子突破</span> <span class="tag tag-success">快速学习</span> <span class="tag">国产模型</span>
+
+</div>
 
 <div class="news-card">
 
@@ -162,7 +167,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-20 12:00</em>
+  <em>最后更新：2026-02-21 12:00</em>
 </p>
 
 </div>
