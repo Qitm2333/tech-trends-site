@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月22日 技术日报](2026-02/22.md)
+### [2026年2月23日 技术日报](2026-02/23.md)
 
 <div class="daily-preview">
 
@@ -16,22 +16,91 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">7</div>
+    <div class="stat-value">5</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">92</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">💰</div>
-    <div class="stat-label">千亿融资</div>
+    <div class="stat-value" style="font-size: 1.75rem;">⚡</div>
+    <div class="stat-label">算力爆发</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">安全革命</span> <span class="tag tag-success">开放生态</span> <span class="tag">编程工具</span>
+<span class="tag tag-ai">算力基建</span> <span class="tag tag-primary">硬件战略</span> <span class="tag tag-success">端侧AI</span> <span class="tag">国产替代</span>
+
+**GitHub 热门项目**
+
+| 排名 | 项目 | Stars | 亮点 |
+|:---:|:---|:---:|:---|
+| 1 | **GitNexus** | 1.6K | 零服务器代码智能引擎，浏览器内知识图谱 |
+| 2 | **pentagi** | 2.1K | 全自主AI渗透测试Agent系统 |
+| 3 | **claude-code** | 8.5K | Anthropic官方终端AI编程工具 |
+
+**今日 AI 动态**
+
+- **OpenAI组建200人硬件团队** — 打造AI智能音箱等硬件生态，预计2027年发货
+- **算力基建迎来超级周期** — 国产AI服务器订单排到年底，存储芯片价格持续上涨
+- **OpenAI拟融资超千亿冲击IPO** — 估值或超8500亿美元
+- **谷歌Gemini 3.1 Pro发布** — 推理能力较上一代翻倍
+- **端侧AI全面商用爆发** — 国产芯片领跑，市场规模将破2250亿
+
+**今日洞察**
+
+> AI算力基建迎来"超级周期"！OpenAI组建200人团队进军硬件领域，从纯软件向软硬件结合战略转型。算力产业链订单爆满，华工科技光模块订单排至Q4，SK海力士存储芯片价格全年看涨。端侧AI商用爆发，30亿-70亿参数小模型可在手机、PC本地运行，国产芯片市场份额快速提升...
+
+<div style="margin-top: var(--space-6); text-align: center;">
+  <a href="#/2026-02/23" class="btn">阅读完整日报 →</a>
+</div>
+
+</div>
+
+---
+
+## 历史归档
+
+### 2026年2月
+
+<div class="news-card">
+
+📅 **02月23日** — [算力基建超级周期+OpenAI硬件战略](2026-02/23.md)
+
+<span class="tag tag-ai">算力基建</span> <span class="tag tag-primary">硬件战略</span> <span class="tag tag-success">端侧AI</span> <span class="tag">国产替代</span>
+
+</div>
+
+<div class="news-card">
+
+📅 **02月22日** — [阿里编程生态开放+OpenAI硬件布局](2026-02/22.md)
+
+<div class="daily-preview">
+
+<div class="stats-grid">
+  <div class="stat-item">
+    <div class="stat-value">10</div>
+    <div class="stat-label">GitHub Top</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value">3</div>
+    <div class="stat-label">AI 新闻</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value">85</div>
+    <div class="stat-label">热度指数</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value" style="font-size: 1.75rem;">🔧</div>
+    <div class="stat-label">开放生态</div>
+  </div>
+</div>
+
+**今日概览**
+
+<span class="tag tag-ai">开放生态</span> <span class="tag tag-primary">编程工具</span> <span class="tag tag-success">硬件布局</span> <span class="tag">AI反思</span>
 
 **GitHub 热门项目**
 
@@ -43,17 +112,14 @@
 
 **今日 AI 动态**
 
-- **OpenAI拟融资1000亿美元** — 估值飙升至7300亿美元，再创AI公司估值纪录
-- **Anthropic发布Claude Code Security** — AI安全工具引发网络安全股单日蒸发100亿美元
 - **阿里推出Qwen Coding Plan** — 全面开放AI编程生态，兼容ClaudeCode等主流工具
-- **Claude Sonnet 4.6发布** — 中端定价旗舰性能，100万Token上下文开放测试
-- **谷歌Gemini 3.1 Pro发布** — 推理能力翻倍，用户可免费升级
-- **xAI Grok 4.2公测** — 确立每周迭代节奏，4大智能体协同工作
-- **Kimi估值破100亿美元** — 40天内融资超12亿美元，阿里腾讯联合领投
+- **OpenAI被曝打造实体AI设备** — 从纯软件向软硬件结合战略转型
+- **OpenAI CEO批评"AI洗白"** — 企业不应将业务问题归咎于技术
+- **港股AI概念股爆发** — 智谱7日涨超250%，MiniMax涨超110%
 
 **今日洞察**
 
-> AI编程生态迎来开放革命！阿里Qwen Coding Plan打破封闭策略，全面兼容第三方工具。Anthropic Claude Code Security引发网络安全行业地震，单日蒸发市值超100亿美元。OpenAI推进千亿融资，估值达7300亿美元。AI正在从根本上改变编程工具和安全检测的范式...
+> AI编程生态迎来开放革命！阿里Qwen Coding Plan打破封闭策略，全面兼容第三方工具。OpenAI被曝打造实体AI设备，开启硬件化新阶段。OpenAI CEO批评"AI洗白"现象，行业开始理性审视AI技术的真实价值。国产AI概念股在港股节后爆发...
 
 <div style="margin-top: var(--space-6); text-align: center;">
   <a href="#/2026-02/22" class="btn">阅读完整日报 →</a>
@@ -69,9 +135,9 @@
 
 <div class="news-card">
 
-📅 **02月22日** — [OpenAI千亿融资+Anthropic安全革命+阿里编程生态](2026-02/22.md)
+📅 **02月22日** — [阿里编程生态开放+OpenAI硬件布局](2026-02/22.md)
 
-<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">安全革命</span> <span class="tag tag-success">开放生态</span> <span class="tag">编程工具</span>
+<span class="tag tag-ai">开放生态</span> <span class="tag tag-primary">编程工具</span> <span class="tag tag-success">硬件布局</span> <span class="tag">AI反思</span>
 
 </div>
 
@@ -174,7 +240,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-22 12:00</em>
+  <em>最后更新：2026-02-23 14:00</em>
 </p>
 
 </div>
