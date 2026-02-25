@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月24日 技术日报](2026-02/24.md)
+### [2026年2月25日 技术日报](2026-02/25.md)
 
 <div class="daily-preview">
 
@@ -16,46 +16,47 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">6</div>
+    <div class="stat-value">7</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">95</div>
+    <div class="stat-value">98</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
-    <div class="stat-label">应用爆发</div>
+    <div class="stat-value" style="font-size: 1.75rem;">💰</div>
+    <div class="stat-label">资本狂欢</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">商业化突破</span> <span class="tag tag-primary">应用落地</span> <span class="tag tag-success">国产模型</span> <span class="tag">AI伦理</span>
+<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">推理模型</span> <span class="tag tag-success">算力格局</span> <span class="tag">国产突破</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **system-prompts-and-models** | 5.3K | AI工具系统提示词与模型合集 |
-| 2 | **skills** | 12.3K | Hugging Face AI技能框架 |
-| 3 | **OpenBB** | 35.6K | 金融数据分析平台，支持AI Agent |
+| 1 | **openclaw** | 193K | 跨平台个人AI助手，月增显著 |
+| 2 | **nautilus_trader** | 8.5K | 高性能算法交易平台 |
+| 3 | **skills** | 69.6K | Anthropic Agent Skills规范 |
 
 **今日 AI 动态**
 
-- **OpenAI修改使命引争议** — 删除"安全"与"非营利"承诺，引发业界广泛关注
-- **Kimi近20天收入超2025全年** — 海外收入首超国内，估值突破100亿美元
-- **阿里QwQ-Max明日发布** — 推理模型预览版即将上线，开源计划公布
-- **Claude Code Security震动网安业** — 单日市值蒸发超150亿美元
-- **蚂蚁AI业务春节爆发** — 支付宝AI支付和"蚁阿福"用户双双破亿
-- **春节AI红包大战落幕** — 暴露"留不住人"的行业普遍难题
+- **OpenAI完成史上最大融资1000亿美元** — 估值飙升至8500亿美元，创AI行业纪录
+- **阿里QwQ-Max正式发布** — 推理模型预览版上线，开源计划公布
+- **Meta与AMD达成数百亿美元合作** — 打破英伟达GPU垄断，算力格局重塑
+- **Anthropic营收增速达10倍** — 或于2026年中超越OpenAI成为营收第一
+- **DeepSeek V4泄露引轰动** — 54行代码画出Xbox手柄，正式版即将发布
+- **国际AI安全报告2026发布** — 30多国专家参与，呼吁加强AI监管
+- **阿里云千问市占率32.1%登顶** — 超越豆包和DeepSeek，稳坐行业头把交椅
 
 **今日洞察**
 
-> AI应用商业化迎来里程碑时刻！Kimi近20天收入超2025年全年，海外收入首超国内，标志着国产AI应用真正实现全球化商业变现。春节红包大战各厂商豪掷数亿元抢用户，但活动结束后用户迅速流失，暴露AI应用"留不住人"的普遍难题。OpenAI修改使命删除"安全"承诺引发争议，AI发展方向的伦理思考再次成为焦点...
+> AI资本狂欢达到新高度！OpenAI 1000亿美元融资创历史纪录，估值突破8500亿美元，标志着AI行业正式进入万亿级时代。阿里QwQ-Max发布，与DeepSeek V4、智谱GLM-5形成国产推理模型三足鼎立之势。Meta与AMD数百亿美元合作打破英伟达垄断，AI算力供应链进入"双雄争霸"时代。Anthropic营收增速10倍，或于年中超越OpenAI...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/24" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/25" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -65,6 +66,14 @@
 ## 历史归档
 
 ### 2026年2月
+
+<div class="news-card">
+
+📅 **02月25日** — [OpenAI千亿融资+推理模型大战开启](2026-02/25.md)
+
+<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">推理模型</span> <span class="tag tag-success">算力格局</span> <span class="tag">国产突破</span>
+
+</div>
 
 <div class="news-card">
 
@@ -310,7 +319,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-24 18:00</em>
+  <em>最后更新：2026-02-25 20:00</em>
 </p>
 
 </div>
