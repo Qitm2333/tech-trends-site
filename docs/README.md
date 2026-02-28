@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月25日 技术日报](2026-02/25.md)
+### [2026年2月27日 技术日报](2026-02/27.md)
 
 <div class="daily-preview">
 
@@ -24,39 +24,39 @@
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">💰</div>
-    <div class="stat-label">资本狂欢</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🇨🇳</div>
+    <div class="stat-label">历史性突破</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">千亿融资</span> <span class="tag tag-primary">推理模型</span> <span class="tag tag-success">算力格局</span> <span class="tag">国产突破</span>
+<span class="tag tag-ai">历史性突破</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">AI地缘政治</span> <span class="tag">国产崛起</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **openclaw** | 193K | 跨平台个人AI助手，月增显著 |
-| 2 | **nautilus_trader** | 8.5K | 高性能算法交易平台 |
-| 3 | **skills** | 69.6K | Anthropic Agent Skills规范 |
+| 1 | **wifi-densepose** | 9.8K | WiFi-based人体姿态估计，穿墙追踪 |
+| 2 | **deer-flow** | 3.2K | 字节开源SuperAgent，研究编码创作 |
+| 3 | **moonshine** | 4.5K | 边缘设备快速语音识别ASR |
 
 **今日 AI 动态**
 
-- **OpenAI完成史上最大融资1000亿美元** — 估值飙升至8500亿美元，创AI行业纪录
-- **阿里QwQ-Max正式发布** — 推理模型预览版上线，开源计划公布
-- **Meta与AMD达成数百亿美元合作** — 打破英伟达GPU垄断，算力格局重塑
-- **Anthropic营收增速达10倍** — 或于2026年中超越OpenAI成为营收第一
-- **DeepSeek V4泄露引轰动** — 54行代码画出Xbox手柄，正式版即将发布
-- **国际AI安全报告2026发布** — 30多国专家参与，呼吁加强AI监管
-- **阿里云千问市占率32.1%登顶** — 超越豆包和DeepSeek，稳坐行业头把交椅
+- **中国AI调用量首超美国** — 周Token调用量5.16万亿，全球前五占四席
+- **昆仑天工SkyReels-V4发布** — Artificial Analysis榜单全球第二，超越Sora
+- **特朗普下令封杀Anthropic** — OpenAI罕见声援，AI地缘政治化加剧
+- **英伟达财报超预期** — Q4营收681亿美元，净利润暴增94%
+- **DeepSeek V4定档在即** — 万亿参数+百万上下文，预计2月底发布
+- **月之暗面Kimi融资超7亿美元** — 估值突破100-120亿美元
+- **阶跃星辰被曝计划港股IPO** — 将成为国内第三家大模型上市企业
 
 **今日洞察**
 
-> AI资本狂欢达到新高度！OpenAI 1000亿美元融资创历史纪录，估值突破8500亿美元，标志着AI行业正式进入万亿级时代。阿里QwQ-Max发布，与DeepSeek V4、智谱GLM-5形成国产推理模型三足鼎立之势。Meta与AMD数百亿美元合作打破英伟达垄断，AI算力供应链进入"双雄争霸"时代。Anthropic营收增速10倍，或于年中超越OpenAI...
+> 历史性突破！中国AI调用量首次超越美国，周Token调用量达5.16万亿，全球前五模型中四款来自中国。昆仑天工SkyReels-V4发布即登顶全球第二，与字节Seedance形成中国视频生成"双雄并立"格局。特朗普下令封杀Anthropic，AI成为国家竞争新战场。英伟达财报再次证明AI算力需求强劲增长...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/25" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-02/27" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -66,6 +66,22 @@
 ## 历史归档
 
 ### 2026年2月
+
+<div class="news-card">
+
+📅 **02月27日** — [中国AI调用量首超美国+特朗普封杀Anthropic](2026-02/27.md)
+
+<span class="tag tag-ai">历史性突破</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">AI地缘政治</span> <span class="tag">国产崛起</span>
+
+</div>
+
+<div class="news-card">
+
+📅 **02月26日** — [MiniMax获高盛定调+支付宝AI付破亿+Agent技能生态爆发](2026-02/26.md)
+
+<span class="tag tag-ai">高盛定调</span> <span class="tag tag-primary">AI支付</span> <span class="tag tag-success">Agent生态</span> <span class="tag">国产崛起</span>
+
+</div>
 
 <div class="news-card">
 
@@ -319,7 +335,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-25 20:00</em>
+  <em>最后更新：2026-02-27 22:00</em>
 </p>
 
 </div>
