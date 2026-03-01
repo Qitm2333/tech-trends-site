@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年2月27日 技术日报](2026-02/27.md)
+### [2026年3月1日 技术日报](2026-03/01.md)
 
 <div class="daily-preview">
 
@@ -16,47 +16,46 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">7</div>
+    <div class="stat-value">6</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">97</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🇨🇳</div>
-    <div class="stat-label">历史性突破</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
+    <div class="stat-label">新品爆发</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">历史性突破</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">AI地缘政治</span> <span class="tag">国产崛起</span>
+<span class="tag tag-ai">DeepSeek V4</span> <span class="tag tag-primary">推理芯片</span> <span class="tag tag-success">Agent生态</span> <span class="tag">AI地缘政治</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
 | 1 | **wifi-densepose** | 9.8K | WiFi-based人体姿态估计，穿墙追踪 |
-| 2 | **deer-flow** | 3.2K | 字节开源SuperAgent，研究编码创作 |
-| 3 | **moonshine** | 4.5K | 边缘设备快速语音识别ASR |
+| 2 | **airi** | 6.2K | 自托管Grok伴侣，实时语音交互 |
+| 3 | **claude-code** | 8.5K | Anthropic官方终端编码工具 |
 
 **今日 AI 动态**
 
-- **中国AI调用量首超美国** — 周Token调用量5.16万亿，全球前五占四席
-- **昆仑天工SkyReels-V4发布** — Artificial Analysis榜单全球第二，超越Sora
-- **特朗普下令封杀Anthropic** — OpenAI罕见声援，AI地缘政治化加剧
-- **英伟达财报超预期** — Q4营收681亿美元，净利润暴增94%
-- **DeepSeek V4定档在即** — 万亿参数+百万上下文，预计2月底发布
-- **月之暗面Kimi融资超7亿美元** — 估值突破100-120亿美元
-- **阶跃星辰被曝计划港股IPO** — 将成为国内第三家大模型上市企业
+- **DeepSeek V4定档下周发布** — 全模态+国产算力适配，1万亿参数MoE架构
+- **英伟达宣布AI推理专用芯片** — 盘后股价大涨，Agentic AI拐点已至
+- **特朗普封杀Anthropic持续发酵** — OpenAI国防部合作引监管关注
+- **中国首部AIGC动画电影上映** — 《团圆令》全流程AI制作，成本降低70%
+- **谷歌Nano Banana 2发布** — Gemini图像生成能力升级
+- **GitHub被Agent基础设施占领** — OpenClaw 188K星，生态爆发
 
 **今日洞察**
 
-> 历史性突破！中国AI调用量首次超越美国，周Token调用量达5.16万亿，全球前五模型中四款来自中国。昆仑天工SkyReels-V4发布即登顶全球第二，与字节Seedance形成中国视频生成"双雄并立"格局。特朗普下令封杀Anthropic，AI成为国家竞争新战场。英伟达财报再次证明AI算力需求强劲增长...
+> AI Agent基础设施全面爆发！DeepSeek V4定档下周发布，全模态+国产算力适配标志着国产大模型自主可控进入新阶段。英伟达宣布推出AI推理专用芯片，黄仁勋确认Agentic AI拐点已至。特朗普封杀Anthropic事件持续发酵，AI成为国家竞争新战场。中国首部全流程AIGC动画电影《团圆令》上映，验证了AI在创意内容生产的商业化可行性...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/27" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-03/01" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -64,6 +63,16 @@
 ---
 
 ## 历史归档
+
+### 2026年3月
+
+<div class="news-card">
+
+📅 **03月01日** — [DeepSeek V4定档+英伟达推理芯片+Agent生态爆发](2026-03/01.md)
+
+<span class="tag tag-ai">DeepSeek V4</span> <span class="tag tag-primary">推理芯片</span> <span class="tag tag-success">Agent生态</span> <span class="tag">AI地缘政治</span>
+
+</div>
 
 ### 2026年2月
 
@@ -103,130 +112,9 @@
 
 📅 **02月23日** — [算力基建超级周期+OpenAI硬件战略](2026-02/23.md)
 
-<div class="daily-preview">
-
-<div class="stats-grid">
-  <div class="stat-item">
-    <div class="stat-value">10</div>
-    <div class="stat-label">GitHub Top</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-value">5</div>
-    <div class="stat-label">AI 新闻</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-value">92</div>
-    <div class="stat-label">热度指数</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">⚡</div>
-    <div class="stat-label">算力爆发</div>
-  </div>
-</div>
-
-**今日概览**
-
-<span class="tag tag-ai">算力基建</span> <span class="tag tag-primary">硬件战略</span> <span class="tag tag-success">端侧AI</span> <span class="tag">国产替代</span>
-
-**GitHub 热门项目**
-
-| 排名 | 项目 | Stars | 亮点 |
-|:---:|:---|:---:|:---|
-| 1 | **GitNexus** | 1.6K | 零服务器代码智能引擎，浏览器内知识图谱 |
-| 2 | **pentagi** | 2.1K | 全自主AI渗透测试Agent系统 |
-| 3 | **claude-code** | 8.5K | Anthropic官方终端AI编程工具 |
-
-**今日 AI 动态**
-
-- **OpenAI组建200人硬件团队** — 打造AI智能音箱等硬件生态，预计2027年发货
-- **算力基建迎来超级周期** — 国产AI服务器订单排到年底，存储芯片价格持续上涨
-- **OpenAI拟融资超千亿冲击IPO** — 估值或超8500亿美元
-- **谷歌Gemini 3.1 Pro发布** — 推理能力较上一代翻倍
-- **端侧AI全面商用爆发** — 国产芯片领跑，市场规模将破2250亿
-
-**今日洞察**
-
-> AI算力基建迎来"超级周期"！OpenAI组建200人团队进军硬件领域，从纯软件向软硬件结合战略转型。算力产业链订单爆满，华工科技光模块订单排至Q4，SK海力士存储芯片价格全年看涨。端侧AI商用爆发，30亿-70亿参数小模型可在手机、PC本地运行，国产芯片市场份额快速提升...
-
-<div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/23" class="btn">阅读完整日报 →</a>
-</div>
-
-</div>
-
----
-
-## 历史归档
-
-### 2026年2月
-
-<div class="news-card">
-
-📅 **02月23日** — [算力基建超级周期+OpenAI硬件战略](2026-02/23.md)
-
 <span class="tag tag-ai">算力基建</span> <span class="tag tag-primary">硬件战略</span> <span class="tag tag-success">端侧AI</span> <span class="tag">国产替代</span>
 
 </div>
-
-<div class="news-card">
-
-📅 **02月22日** — [阿里编程生态开放+OpenAI硬件布局](2026-02/22.md)
-
-<div class="daily-preview">
-
-<div class="stats-grid">
-  <div class="stat-item">
-    <div class="stat-value">10</div>
-    <div class="stat-label">GitHub Top</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-value">3</div>
-    <div class="stat-label">AI 新闻</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-value">85</div>
-    <div class="stat-label">热度指数</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🔧</div>
-    <div class="stat-label">开放生态</div>
-  </div>
-</div>
-
-**今日概览**
-
-<span class="tag tag-ai">开放生态</span> <span class="tag tag-primary">编程工具</span> <span class="tag tag-success">硬件布局</span> <span class="tag">AI反思</span>
-
-**GitHub 热门项目**
-
-| 排名 | 项目 | Stars | 亮点 |
-|:---:|:---|:---:|:---|
-| 1 | **pentagi** | 2.1K | 全自主AI渗透测试Agent系统 |
-| 2 | **GitNexus** | 1.2K | 零服务器代码智能引擎 |
-| 3 | **superpowers** | 3.2K | Agentic技能框架与软件开发方法论 |
-
-**今日 AI 动态**
-
-- **阿里推出Qwen Coding Plan** — 全面开放AI编程生态，兼容ClaudeCode等主流工具
-- **OpenAI被曝打造实体AI设备** — 从纯软件向软硬件结合战略转型
-- **OpenAI CEO批评"AI洗白"** — 企业不应将业务问题归咎于技术
-- **港股AI概念股爆发** — 智谱7日涨超250%，MiniMax涨超110%
-
-**今日洞察**
-
-> AI编程生态迎来开放革命！阿里Qwen Coding Plan打破封闭策略，全面兼容第三方工具。OpenAI被曝打造实体AI设备，开启硬件化新阶段。OpenAI CEO批评"AI洗白"现象，行业开始理性审视AI技术的真实价值。国产AI概念股在港股节后爆发...
-
-<div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-02/22" class="btn">阅读完整日报 →</a>
-</div>
-
-</div>
-
----
-
-## 历史归档
-
-### 2026年2月
 
 <div class="news-card">
 
@@ -335,7 +223,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-02-27 22:00</em>
+  <em>最后更新：2026-03-01 20:00</em>
 </p>
 
 </div>
