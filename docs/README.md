@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年3月1日 技术日报](2026-03/01.md)
+### [2026年3月25日 技术日报](2026-03/25.md)
 
 <div class="daily-preview">
 
@@ -20,42 +20,42 @@
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">97</div>
+    <div class="stat-value">98</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
-    <div class="stat-label">新品爆发</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
+    <div class="stat-label">历史性突破</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">DeepSeek V4</span> <span class="tag tag-primary">推理芯片</span> <span class="tag tag-success">Agent生态</span> <span class="tag">AI地缘政治</span>
+<span class="tag tag-ai">中国AI登顶</span> <span class="tag tag-primary">Claude Code</span> <span class="tag tag-success">国产芯片</span> <span class="tag">Agent革命</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **wifi-densepose** | 9.8K | WiFi-based人体姿态估计，穿墙追踪 |
-| 2 | **airi** | 6.2K | 自托管Grok伴侣，实时语音交互 |
-| 3 | **claude-code** | 8.5K | Anthropic官方终端编码工具 |
+| 1 | **claude-code** | 12.5K | Anthropic官方工具，新增电脑操控能力 |
+| 2 | **openclaw** | 198K | AI智能体框架，多Agent编排 |
+| 3 | **n8n** | 182K | 工作流自动化平台，AI Agent集成 |
 
 **今日 AI 动态**
 
-- **DeepSeek V4定档下周发布** — 全模态+国产算力适配，1万亿参数MoE架构
-- **英伟达宣布AI推理专用芯片** — 盘后股价大涨，Agentic AI拐点已至
-- **特朗普封杀Anthropic持续发酵** — OpenAI国防部合作引监管关注
-- **中国首部AIGC动画电影上映** — 《团圆令》全流程AI制作，成本降低70%
-- **谷歌Nano Banana 2发布** — Gemini图像生成能力升级
-- **GitHub被Agent基础设施占领** — OpenClaw 188K星，生态爆发
+- **中国AI调用量连续两周超越美国** — 69万亿Token领跑全球，历史性突破
+- **Claude Code史诗级更新** — AI可直接操控电脑，网友戏称"杀死OpenClaw"
+- **阿里达摩院发布玄铁C950** — 全球最强RISC-V CPU，单核性能破70分
+- **杨植麟中关村论坛演讲** — AI研究进入第三阶段，开源模型成新标准
+- **OpenAI公布AI研究员路线图** — 2028年实现全自动化AI研究员
+- **它石智航发布AWE3.0** — 全球首个"能干活"的具身智能大模型
 
 **今日洞察**
 
-> AI Agent基础设施全面爆发！DeepSeek V4定档下周发布，全模态+国产算力适配标志着国产大模型自主可控进入新阶段。英伟达宣布推出AI推理专用芯片，黄仁勋确认Agentic AI拐点已至。特朗普封杀Anthropic事件持续发酵，AI成为国家竞争新战场。中国首部全流程AIGC动画电影《团圆令》上映，验证了AI在创意内容生产的商业化可行性...
+> 历史性突破！中国AI大模型调用量以69万亿Token连续两周超越美国，正式登顶全球。Claude Code迎来史诗级更新，AI可直接操控电脑，标志着Agent技术从"对话"向"执行"的质变。阿里达摩院发布玄铁C950，刷新RISC-V性能纪录，为国产AI算力提供核心支撑。AI产业正经历从"百模大战"到"应用爆发"的关键转折...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-03/01" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-03/25" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -65,6 +65,14 @@
 ## 历史归档
 
 ### 2026年3月
+
+<div class="news-card">
+
+📅 **03月25日** — [中国AI调用量登顶全球+Claude Code革命性更新+玄铁C950发布](2026-03/25.md)
+
+<span class="tag tag-ai">中国AI登顶</span> <span class="tag tag-primary">Claude Code</span> <span class="tag tag-success">国产芯片</span> <span class="tag">Agent革命</span>
+
+</div>
 
 <div class="news-card">
 
@@ -223,7 +231,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-03-01 20:00</em>
+  <em>最后更新：2026-03-25 22:00</em>
 </p>
 
 </div>

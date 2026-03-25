@@ -4,7 +4,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 
 function DailyReport() {
-  const { date } = useParams()
+  const { yearMonth, date } = useParams()
   const [content, setContent] = useState('')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
@@ -18,7 +18,7 @@ function DailyReport() {
       try {
         setLoading(true)
         const basePath = import.meta.env.BASE_URL || '/'
-        const response = await fetch(`${basePath}docs/2026-02/${date}.md`)
+        const response = await fetch(`${basePath}docs/${yearMonth}/${date}.md`)
         if (!response.ok) {
           throw new Error('文件不存在')
         }
@@ -33,7 +33,7 @@ function DailyReport() {
     }
 
     loadContent()
-  }, [date])
+  }, [yearMonth, date])
 
   const extractDate = (content) => {
     const match = content.match(/#\s*(\d{4})年(\d{1,2})月(\d{1,2})日/)
@@ -44,9 +44,10 @@ function DailyReport() {
         day: match[3].padStart(2, '0')
       }
     }
+    const [year, month] = yearMonth ? yearMonth.split('-') : ['2026', '03']
     return {
-      year: '2026',
-      month: '02',
+      year: year,
+      month: month,
       day: date.padStart(2, '0')
     }
   }

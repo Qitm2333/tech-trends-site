@@ -17,7 +17,7 @@ function Home() {
         ) : files.length === 0 ? (
           <div className="empty-state">
             <p>暂无日报内容</p>
-            <p className="hint">请在 docs/2026-02/ 目录下添加 Markdown 文件</p>
+            <p className="hint">请在 docs/ 目录下添加 Markdown 文件</p>
           </div>
         ) : (
           <div className="home-file-list">

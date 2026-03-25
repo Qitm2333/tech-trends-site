@@ -1,16 +1,11 @@
-// 自动扫描目录获取日报文件列表
-// 动态扫描 docs/2026-02 目录下的所有 .md 文件
-
-// 获取基础路径
 const getBasePath = () => {
   return import.meta.env.BASE_URL || '/'
 }
 
-// 尝试从目录索引获取文件列表
-async function fetchDirectoryListing() {
+async function fetchDirectoryListing(yearMonth) {
   try {
     const basePath = getBasePath()
-    const response = await fetch(`${basePath}docs/2026-02/`)
+    const response = await fetch(`${basePath}docs/${yearMonth}/`)
     if (response.ok) {
       const html = await response.text()
       const matches = html.match(/href="([^"]+\.md)"/g)
@@ -19,13 +14,12 @@ async function fetchDirectoryListing() {
       }
     }
   } catch (e) {
-    console.log('目录索引获取失败，使用动态探测模式')
+    console.log(`目录索引获取失败 ${yearMonth}，使用动态探测模式`)
   }
   return null
 }
 
-// 动态探测文件（尝试 1-31 日的文件）
-async function detectFilesDynamically() {
+async function detectFilesDynamically(yearMonth) {
   const files = []
   const promises = []
   const basePath = getBasePath()
@@ -35,7 +29,7 @@ async function detectFilesDynamically() {
     const fileName = `${dayStr}.md`
     
     promises.push(
-      fetch(`${basePath}docs/2026-02/${fileName}`)
+      fetch(`${basePath}docs/${yearMonth}/${fileName}`)
         .then(async res => {
           const contentType = res.headers.get('Content-Type') || ''
           if (res.ok && (contentType.includes('markdown') || contentType.includes('text/'))) {
@@ -54,21 +48,28 @@ async function detectFilesDynamically() {
   return results.filter(Boolean)
 }
 
-export async function scanDailyFiles() {
+async function scanMonthDirectory(yearMonth) {
   const files = []
   const basePath = getBasePath()
   
-  let fileList = await fetchDirectoryListing()
+  let fileList = await fetchDirectoryListing(yearMonth)
   
   if (!fileList || fileList.length === 0) {
-    fileList = await detectFilesDynamically()
+    fileList = await detectFilesDynamically(yearMonth)
   }
+  
+  if (!fileList || fileList.length === 0) {
+    return []
+  }
+  
+  const [year, month] = yearMonth.split('-')
+  const monthNum = parseInt(month)
   
   const filePromises = fileList.map(async (fileName) => {
     const day = fileName.replace('.md', '')
     
     try {
-      const response = await fetch(`${basePath}docs/2026-02/${fileName}`)
+      const response = await fetch(`${basePath}docs/${yearMonth}/${fileName}`)
       if (!response.ok) return null
       
       const content = await response.text()
@@ -78,12 +79,15 @@ export async function scanDailyFiles() {
       const tags = extractTags(content)
       
       return {
-        date: `2026-02-${day}`,
+        date: `${yearMonth}-${day}`,
+        yearMonth: yearMonth,
+        year: year,
+        month: month,
         file: fileName,
         day: day,
-        title: `02月${day}日`,
+        title: `${monthNum}月${day}日`,
         fullTitle: title,
-        path: `/2026-02/${day}`,
+        path: `/${yearMonth}/${day}`,
         tags: tags
       }
     } catch (err) {
@@ -93,12 +97,42 @@ export async function scanDailyFiles() {
   })
   
   const results = await Promise.all(filePromises)
-  files.push(...results.filter(Boolean))
+  return results.filter(Boolean)
+}
+
+export async function scanDailyFiles() {
+  const allFiles = []
+  const basePath = getBasePath()
   
-  files.sort((a, b) => parseInt(b.day) - parseInt(a.day))
+  const currentYear = 2026
+  const currentMonth = 3
   
-  console.log(`[fileScanner] 扫描到 ${files.length} 个日报文件:`, files.map(f => f.file))
-  return files
+  const monthsToScan = []
+  for (let year = currentYear; year >= currentYear; year--) {
+    const startMonth = (year === currentYear) ? currentMonth : 12
+    for (let month = startMonth; month >= 1; month--) {
+      monthsToScan.push(`${year}-${month.toString().padStart(2, '0')}`)
+    }
+  }
+  
+  console.log('[fileScanner] 将扫描以下月份目录:', monthsToScan)
+  
+  for (const yearMonth of monthsToScan) {
+    const monthFiles = await scanMonthDirectory(yearMonth)
+    if (monthFiles.length > 0) {
+      allFiles.push(...monthFiles)
+      console.log(`[fileScanner] 在 ${yearMonth} 找到 ${monthFiles.length} 个文件`)
+    }
+  }
+  
+  allFiles.sort((a, b) => {
+    const dateA = new Date(a.date)
+    const dateB = new Date(b.date)
+    return dateB - dateA
+  })
+  
+  console.log(`[fileScanner] 总共扫描到 ${allFiles.length} 个日报文件:`, allFiles.map(f => f.path))
+  return allFiles
 }
 
 function extractTags(content) {
@@ -119,7 +153,6 @@ function extractTags(content) {
   return tags.length > 0 ? tags : ['日报']
 }
 
-// 获取最新文件
 export function getLatestFile(files) {
   return files.length > 0 ? files[0] : null
 }

@@ -9,7 +9,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Home />} />
-        <Route path="2026-02/:date" element={<DailyReport />} />
+        <Route path=":yearMonth/:date" element={<DailyReport />} />
       </Route>
     </Routes>
   )
