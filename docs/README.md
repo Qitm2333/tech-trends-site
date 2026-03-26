@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年3月25日 技术日报](2026-03/25.md)
+### [2026年3月26日 技术日报](2026-03/26.md)
 
 <div class="daily-preview">
 
@@ -16,46 +16,47 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">6</div>
+    <div class="stat-value">7</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">96</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
-    <div class="stat-label">历史性突破</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🔄</div>
+    <div class="stat-label">格局重塑</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">中国AI登顶</span> <span class="tag tag-primary">Claude Code</span> <span class="tag tag-success">国产芯片</span> <span class="tag">Agent革命</span>
+<span class="tag tag-ai">Sora关闭</span> <span class="tag tag-primary">Grok加码</span> <span class="tag tag-success">Agent元年</span> <span class="tag">格局洗牌</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **claude-code** | 12.5K | Anthropic官方工具，新增电脑操控能力 |
-| 2 | **openclaw** | 198K | AI智能体框架，多Agent编排 |
-| 3 | **n8n** | 182K | 工作流自动化平台，AI Agent集成 |
+| 1 | **cli-anything** | 19K | 任意软件秒变AI Agent工具 |
+| 2 | **deer-flow** | 44.9K | 字节开源SuperAgent框架 |
+| 3 | **trading-agents** | 12.3K | 金融交易多智能体系统 |
 
 **今日 AI 动态**
 
-- **中国AI调用量连续两周超越美国** — 69万亿Token领跑全球，历史性突破
-- **Claude Code史诗级更新** — AI可直接操控电脑，网友戏称"杀死OpenClaw"
-- **阿里达摩院发布玄铁C950** — 全球最强RISC-V CPU，单核性能破70分
-- **杨植麟中关村论坛演讲** — AI研究进入第三阶段，开源模型成新标准
-- **OpenAI公布AI研究员路线图** — 2028年实现全自动化AI研究员
-- **它石智航发布AWE3.0** — 全球首个"能干活"的具身智能大模型
+- **OpenAI宣布关闭Sora** — 上线仅6个月，AI视频生成平台全面关停
+- **马斯克宣布加倍押注AI视频** — Grok Imagine将震撼发布，填补Sora空白
+- **2026年被定义为智能体AI元年** — 张亚勤院士中关村论坛定调
+- **xAI即将推出Grok Computer** — 电脑操控智能体，对标Claude Code
+- **MiniMax M2.7自进化模型发布** — 全球首个能参与自身训练的AI模型
+- **Meta Llama 4.0发布** — 首个万亿参数开源大模型
+- **智谱GLM-5-Turbo发布** — 龙虾场景专属优化，API涨价20%
 
 **今日洞察**
 
-> 历史性突破！中国AI大模型调用量以69万亿Token连续两周超越美国，正式登顶全球。Claude Code迎来史诗级更新，AI可直接操控电脑，标志着Agent技术从"对话"向"执行"的质变。阿里达摩院发布玄铁C950，刷新RISC-V性能纪录，为国产AI算力提供核心支撑。AI产业正经历从"百模大战"到"应用爆发"的关键转折...
+> AI行业格局剧变！OpenAI宣布关闭Sora，马斯克随即宣布加倍押注Grok Imagine，AI视频赛道迎来新一轮洗牌。张亚勤院士在中关村论坛定调2026年为"智能体AI元年"，标志着行业从"对话"向"执行"的质变。电脑操控Agent竞争白热化，Claude Code、Grok Computer、Codex CLI三强鼎立格局初现...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-03/25" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-03/26" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -65,6 +66,14 @@
 ## 历史归档
 
 ### 2026年3月
+
+<div class="news-card">
+
+📅 **03月26日** — [OpenAI关停Sora+马斯克加码AI视频+智能体AI元年](2026-03/26.md)
+
+<span class="tag tag-ai">Sora关闭</span> <span class="tag tag-primary">Grok加码</span> <span class="tag tag-success">Agent元年</span> <span class="tag">格局洗牌</span>
+
+</div>
 
 <div class="news-card">
 
@@ -231,7 +240,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-03-25 22:00</em>
+  <em>最后更新：2026-03-26 22:00</em>
 </p>
 
 </div>
