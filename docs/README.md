@@ -31,30 +31,30 @@
 
 **今日概览**
 
-<span class="tag tag-ai">源码泄露</span> <span class="tag tag-primary">Sora关闭</span> <span class="tag tag-success">Agent元年</span> <span class="tag">中国AI登顶</span>
+<span class="tag tag-ai">源码泄露</span> <span class="tag tag-primary">巨额融资</span> <span class="tag tag-success">全模态模型</span> <span class="tag">国产崛起</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **openclaw** | 298K | AI智能体框架登顶GitHub |
-| 2 | **claude-code** | 102K | 源码泄露，51万行代码曝光 |
-| 3 | **deer-flow** | 52K | 字节开源SuperAgent框架 |
+| 1 | **everything-claude-code** | 102K | Claude Code源码泄露，51万行代码曝光 |
+| 2 | **openclaw** | 298K | AI智能体框架登顶GitHub |
+| 3 | **superpowers** | 102K | Agent框架，本周新增近2万星 |
 
 **今日 AI 动态**
 
-- **Claude Code源码泄露** — 51.2万行代码意外开源，全球开发者轰动
-- **OpenAI关闭Sora后续** — AI视频赛道格局重塑，竞争白热化
-- **马斯克加倍押注AI视频** — Grok Imagine将震撼发布，填补Sora空白
-- **2026年智能体AI元年** — 张亚勤院士中关村论坛定调
-- **中国AI调用量登顶全球** — 69万亿Token连续两周超越美国
-- **阿里玄铁C950发布** — 全球最强RISC-V CPU，单核性能破70分
-- **快手可灵AI收入翻倍** — ARR突破3亿美元，Sora关闭当日财报亮眼
-- **MiniMax M2.7自进化模型** — 全球首个能参与自身训练的AI
+- **Claude Code源码泄露** — 51.2万行代码意外曝光，全球开发者轰动
+- **OpenAI完成1220亿美元融资** — 估值达8520亿美元，创历史纪录
+- **阿里Qwen3.5-Omni发布** — 215项SOTA全模态模型，全面超越Gemini
+- **英伟达20亿美元投资Marvell** — 深化AI基础设施战略合作
+- **智谱发布上市后首份财报** — 营收增长132%，股价大涨25%
+- **中兴与字节合作豆包AI手机** — 预计2026年Q2发布
+- **月之暗面ARR突破1亿美元** — Kimi K2.5发布后仅一个月
+- **xAI创始团队全员离职** — Grok前途再添变数
 
 **今日洞察**
 
-> AI行业史诗级事件频发！Claude Code 51.2万行源码意外泄露，让全球开发者得以一窥顶级AI编程工具的内部架构。OpenAI关闭Sora余波未平，马斯克随即宣布加倍押注Grok Imagine。张亚勤院士定调2026年为"智能体AI元年"，中国AI调用量连续两周超越美国登顶全球。AI视频赛道、电脑操控Agent、自进化模型三大赛道同时爆发...
+> AI行业史诗级事件频发！Claude Code 51.2万行源码意外泄露，让全球开发者得以一窥顶级AI编程工具的内部架构。OpenAI完成1220亿美元创纪录融资，估值达8520亿美元。阿里Qwen3.5-Omni在215项任务斩获SOTA，国产多模态模型实现重大突破。英伟达20亿美元投资Marvell，AI基础设施竞争白热化...
 
 <div style="margin-top: var(--space-6); text-align: center;">
   <a href="#/2026-04/01" class="btn">阅读完整日报 →</a>
@@ -70,9 +70,9 @@
 
 <div class="news-card">
 
-📅 **04月01日** — [Claude Code源码泄露+Sora关闭余波+智能体AI元年开启](2026-04/01.md)
+📅 **04月01日** — [Claude Code源码泄露+OpenAI巨额融资+阿里全模态模型发布](2026-04/01.md)
 
-<span class="tag tag-ai">源码泄露</span> <span class="tag tag-primary">Sora关闭</span> <span class="tag tag-success">Agent元年</span> <span class="tag">中国AI登顶</span>
+<span class="tag tag-ai">源码泄露</span> <span class="tag tag-primary">巨额融资</span> <span class="tag tag-success">全模态模型</span> <span class="tag">国产崛起</span>
 
 </div>
 
