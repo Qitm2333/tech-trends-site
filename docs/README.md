@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年3月26日 技术日报](2026-03/26.md)
+### [2026年4月1日 技术日报](2026-04/01.md)
 
 <div class="daily-preview">
 
@@ -16,47 +16,48 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">7</div>
+    <div class="stat-value">8</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">96</div>
+    <div class="stat-value">98</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🔄</div>
-    <div class="stat-label">格局重塑</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
+    <div class="stat-label">史诗级事件</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">Sora关闭</span> <span class="tag tag-primary">Grok加码</span> <span class="tag tag-success">Agent元年</span> <span class="tag">格局洗牌</span>
+<span class="tag tag-ai">源码泄露</span> <span class="tag tag-primary">Sora关闭</span> <span class="tag tag-success">Agent元年</span> <span class="tag">中国AI登顶</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **cli-anything** | 19K | 任意软件秒变AI Agent工具 |
-| 2 | **deer-flow** | 44.9K | 字节开源SuperAgent框架 |
-| 3 | **trading-agents** | 12.3K | 金融交易多智能体系统 |
+| 1 | **openclaw** | 298K | AI智能体框架登顶GitHub |
+| 2 | **claude-code** | 102K | 源码泄露，51万行代码曝光 |
+| 3 | **deer-flow** | 52K | 字节开源SuperAgent框架 |
 
 **今日 AI 动态**
 
-- **OpenAI宣布关闭Sora** — 上线仅6个月，AI视频生成平台全面关停
-- **马斯克宣布加倍押注AI视频** — Grok Imagine将震撼发布，填补Sora空白
-- **2026年被定义为智能体AI元年** — 张亚勤院士中关村论坛定调
-- **xAI即将推出Grok Computer** — 电脑操控智能体，对标Claude Code
-- **MiniMax M2.7自进化模型发布** — 全球首个能参与自身训练的AI模型
-- **Meta Llama 4.0发布** — 首个万亿参数开源大模型
-- **智谱GLM-5-Turbo发布** — 龙虾场景专属优化，API涨价20%
+- **Claude Code源码泄露** — 51.2万行代码意外开源，全球开发者轰动
+- **OpenAI关闭Sora后续** — AI视频赛道格局重塑，竞争白热化
+- **马斯克加倍押注AI视频** — Grok Imagine将震撼发布，填补Sora空白
+- **2026年智能体AI元年** — 张亚勤院士中关村论坛定调
+- **中国AI调用量登顶全球** — 69万亿Token连续两周超越美国
+- **阿里玄铁C950发布** — 全球最强RISC-V CPU，单核性能破70分
+- **快手可灵AI收入翻倍** — ARR突破3亿美元，Sora关闭当日财报亮眼
+- **MiniMax M2.7自进化模型** — 全球首个能参与自身训练的AI
 
 **今日洞察**
 
-> AI行业格局剧变！OpenAI宣布关闭Sora，马斯克随即宣布加倍押注Grok Imagine，AI视频赛道迎来新一轮洗牌。张亚勤院士在中关村论坛定调2026年为"智能体AI元年"，标志着行业从"对话"向"执行"的质变。电脑操控Agent竞争白热化，Claude Code、Grok Computer、Codex CLI三强鼎立格局初现...
+> AI行业史诗级事件频发！Claude Code 51.2万行源码意外泄露，让全球开发者得以一窥顶级AI编程工具的内部架构。OpenAI关闭Sora余波未平，马斯克随即宣布加倍押注Grok Imagine。张亚勤院士定调2026年为"智能体AI元年"，中国AI调用量连续两周超越美国登顶全球。AI视频赛道、电脑操控Agent、自进化模型三大赛道同时爆发...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-03/26" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/01" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -64,6 +65,16 @@
 ---
 
 ## 历史归档
+
+### 2026年4月
+
+<div class="news-card">
+
+📅 **04月01日** — [Claude Code源码泄露+Sora关闭余波+智能体AI元年开启](2026-04/01.md)
+
+<span class="tag tag-ai">源码泄露</span> <span class="tag tag-primary">Sora关闭</span> <span class="tag tag-success">Agent元年</span> <span class="tag">中国AI登顶</span>
+
+</div>
 
 ### 2026年3月
 
@@ -240,7 +251,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-03-26 22:00</em>
+  <em>最后更新：2026-04-01 22:00</em>
 </p>
 
 </div>
