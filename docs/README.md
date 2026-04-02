@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月1日 技术日报](2026-04/01.md)
+### [2026年4月2日 技术日报](2026-04/02.md)
 
 <div class="daily-preview">
 
@@ -16,48 +16,49 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">8</div>
+    <div class="stat-value">9</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">96</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
     <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
-    <div class="stat-label">史诗级事件</div>
+    <div class="stat-label">多模态爆发</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">源码泄露</span> <span class="tag tag-primary">巨额融资</span> <span class="tag tag-success">全模态模型</span> <span class="tag">国产崛起</span>
+<span class="tag tag-ai">视觉编程</span> <span class="tag tag-primary">多模态模型</span> <span class="tag tag-success">开源SOTA</span> <span class="tag">国产突破</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **everything-claude-code** | 102K | Claude Code源码泄露，51万行代码曝光 |
-| 2 | **openclaw** | 298K | AI智能体框架登顶GitHub |
-| 3 | **superpowers** | 102K | Agent框架，本周新增近2万星 |
+| 1 | **everything-claude-code** | 125K | Claude Code泄露持续发酵 |
+| 2 | **vibe-voice** | 33K | 微软开源语音AI，日增3.8K星 |
+| 3 | **openclaw** | 302K | AI智能体框架生态扩张 |
 
 **今日 AI 动态**
 
-- **Claude Code源码泄露** — 51.2万行代码意外曝光，全球开发者轰动
+- **智谱发布GLM-5V-Turbo** — 首个原生多模态Coding基座模型，视觉编程 breakthrough
+- **阿里发布Qwen3.6-Plus** — 国产最强编程模型，SWE-bench评测领先
 - **OpenAI完成1220亿美元融资** — 估值达8520亿美元，创历史纪录
-- **阿里Qwen3.5-Omni发布** — 215项SOTA全模态模型，全面超越Gemini
-- **英伟达20亿美元投资Marvell** — 深化AI基础设施战略合作
-- **智谱发布上市后首份财报** — 营收增长132%，股价大涨25%
+- **Meta Llama 4系列发布** — 开源模型性能首次超越GPT-4
+- **谷歌发布Veo 3.1 Lite** — AI视频生成成本降至每秒5美分
+- **智谱市值突破4000亿港元** — 财报发布后股价大涨32.44%
+- **字节Seed启动全球招聘** — 计划招募100名大模型人才
 - **中兴与字节合作豆包AI手机** — 预计2026年Q2发布
-- **月之暗面ARR突破1亿美元** — Kimi K2.5发布后仅一个月
-- **xAI创始团队全员离职** — Grok前途再添变数
+- **工信部发布具身智能标准体系** — 首个国家级标准体系
 
 **今日洞察**
 
-> AI行业史诗级事件频发！Claude Code 51.2万行源码意外泄露，让全球开发者得以一窥顶级AI编程工具的内部架构。OpenAI完成1220亿美元创纪录融资，估值达8520亿美元。阿里Qwen3.5-Omni在215项任务斩获SOTA，国产多模态模型实现重大突破。英伟达20亿美元投资Marvell，AI基础设施竞争白热化...
+> 国产多模态模型同日爆发！智谱GLM-5V-Turbo和阿里Qwen3.6-Plus在4月2日同日发布，标志着国产大模型在视觉编程领域实现重大突破。OpenAI完成1220亿美元创纪录融资，Meta Llama 4性能超越GPT-4，开源与闭源模型竞争进入新阶段。AI编程正式进入视觉时代...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/01" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/02" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -67,6 +68,14 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月02日** — [国产多模态模型爆发+OpenAI巨额融资+Llama4超越GPT-4](2026-04/02.md)
+
+<span class="tag tag-ai">视觉编程</span> <span class="tag tag-primary">多模态模型</span> <span class="tag tag-success">开源SOTA</span> <span class="tag">国产突破</span>
+
+</div>
 
 <div class="news-card">
 
@@ -251,7 +260,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-01 22:00</em>
+  <em>最后更新：2026-04-02 22:00</em>
 </p>
 
 </div>
