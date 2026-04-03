@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月2日 技术日报](2026-04/02.md)
+### [2026年4月3日 技术日报](2026-04/03.md)
 
 <div class="daily-preview">
 
@@ -16,49 +16,48 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">9</div>
+    <div class="stat-value">8</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">96</div>
+    <div class="stat-value">98</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
     <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
-    <div class="stat-label">多模态爆发</div>
+    <div class="stat-label">巨头交锋</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">视觉编程</span> <span class="tag tag-primary">多模态模型</span> <span class="tag tag-success">开源SOTA</span> <span class="tag">国产突破</span>
+<span class="tag tag-ai">开源SOTA</span> <span class="tag tag-primary">多模态模型</span> <span class="tag tag-success">国产算力</span> <span class="tag">巨头交锋</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **everything-claude-code** | 125K | Claude Code泄露持续发酵 |
-| 2 | **vibe-voice** | 33K | 微软开源语音AI，日增3.8K星 |
-| 3 | **openclaw** | 302K | AI智能体框架生态扩张 |
+| 1 | **gemma-4** | 28K | 谷歌开源最强模型，日增2.8万星 |
+| 2 | **everything-claude-code** | 127K | Claude Code泄露持续分析 |
+| 3 | **vibe-voice** | 36K | 微软开源语音AI热度持续 |
 
 **今日 AI 动态**
 
-- **智谱发布GLM-5V-Turbo** — 首个原生多模态Coding基座模型，视觉编程 breakthrough
-- **阿里发布Qwen3.6-Plus** — 国产最强编程模型，SWE-bench评测领先
-- **OpenAI完成1220亿美元融资** — 估值达8520亿美元，创历史纪录
-- **Meta Llama 4系列发布** — 开源模型性能首次超越GPT-4
-- **谷歌发布Veo 3.1 Lite** — AI视频生成成本降至每秒5美分
-- **智谱市值突破4000亿港元** — 财报发布后股价大涨32.44%
-- **字节Seed启动全球招聘** — 计划招募100名大模型人才
-- **中兴与字节合作豆包AI手机** — 预计2026年Q2发布
-- **工信部发布具身智能标准体系** — 首个国家级标准体系
+- **谷歌开源Gemma 4** — 最强开源模型，Apache 2.0许可，31B击败大20倍竞品
+- **微软发布MAI系列模型** — 语音转录WER仅3.9%，开启商用摆脱OpenAI依赖
+- **DeepSeek V4纯国产训练** — 零英伟达芯片，全链路自主可控
+- **豆包二代AI手机定档Q2** — 字节中兴联手，系统级Agent集成
+- **DeepSeek核心成员离职** — 王炳宣被腾讯挖走，人才争夺战白热化
+- **xAI Grok面临集体诉讼** — 生成不当内容，暴露AI安全问题
+- **太空算力产业大会开幕** — 北京成立太空算力专业委员会
+- **量子AI深度融合平台共建** — 中国移动、中科院等联合宣布
 
 **今日洞察**
 
-> 国产多模态模型同日爆发！智谱GLM-5V-Turbo和阿里Qwen3.6-Plus在4月2日同日发布，标志着国产大模型在视觉编程领域实现重大突破。OpenAI完成1220亿美元创纪录融资，Meta Llama 4性能超越GPT-4，开源与闭源模型竞争进入新阶段。AI编程正式进入视觉时代...
+> 4月3日AI行业上演巨头同日交锋！微软与谷歌几乎同步发布新一代AI模型，在多模态赛道展开正面竞争。谷歌Gemma 4以Apache 2.0许可证全面开源，31B模型性能超越大20倍竞品，标志着开源模型迎来转折点。DeepSeek V4实现纯国产算力训练，不依赖英伟达芯片，国产AI基础设施自主化取得重大突破...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/02" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/03" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -68,6 +67,14 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月03日** — [微软谷歌同日交锋+谷歌开源Gemma 4+DeepSeek纯国产训练](2026-04/03.md)
+
+<span class="tag tag-ai">开源SOTA</span> <span class="tag tag-primary">多模态模型</span> <span class="tag tag-success">国产算力</span> <span class="tag">巨头交锋</span>
+
+</div>
 
 <div class="news-card">
 
@@ -260,7 +267,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-02 22:00</em>
+  <em>最后更新：2026-04-03 22:00</em>
 </p>
 
 </div>
