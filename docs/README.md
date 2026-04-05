@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月3日 技术日报](2026-04/03.md)
+### [2026年4月5日 技术日报](2026-04/05.md)
 
 <div class="daily-preview">
 
@@ -16,7 +16,7 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">8</div>
+    <div class="stat-value">6</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
@@ -25,39 +25,37 @@
   </div>
   <div class="stat-item">
     <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
-    <div class="stat-label">巨头交锋</div>
+    <div class="stat-label">巨头对决</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">开源SOTA</span> <span class="tag tag-primary">多模态模型</span> <span class="tag tag-success">国产算力</span> <span class="tag">巨头交锋</span>
+<span class="tag tag-ai">4K图像生成</span> <span class="tag tag-primary">企业级AI</span> <span class="tag tag-success">国产算力</span> <span class="tag">巨头对决</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **gemma-4** | 28K | 谷歌开源最强模型，日增2.8万星 |
-| 2 | **everything-claude-code** | 127K | Claude Code泄露持续分析 |
-| 3 | **vibe-voice** | 36K | 微软开源语音AI热度持续 |
+| 1 | **gemma-4** | 35K | 谷歌最强开源模型持续霸榜 |
+| 2 | **oh-my-codex** | 15K | OmX编程助手，日增破千星 |
+| 3 | **onyx** | 24K | 开源AI平台热度持续 |
 
 **今日 AI 动态**
 
-- **谷歌开源Gemma 4** — 最强开源模型，Apache 2.0许可，31B击败大20倍竞品
-- **微软发布MAI系列模型** — 语音转录WER仅3.9%，开启商用摆脱OpenAI依赖
-- **DeepSeek V4纯国产训练** — 零英伟达芯片，全链路自主可控
-- **豆包二代AI手机定档Q2** — 字节中兴联手，系统级Agent集成
-- **DeepSeek核心成员离职** — 王炳宣被腾讯挖走，人才争夺战白热化
-- **xAI Grok面临集体诉讼** — 生成不当内容，暴露AI安全问题
-- **太空算力产业大会开幕** — 北京成立太空算力专业委员会
-- **量子AI深度融合平台共建** — 中国移动、中科院等联合宣布
+- **OpenAI发布DALL-E 4** — 图像生成进入4K时代，4096×4096分辨率+视频生成
+- **Anthropic发布Claude 4.5** — 准确率提升35%，上下文窗口达200万token
+- **DeepSeek V4搭载华为昇腾950** — 国产AI芯片在高端大模型训练领域获实质性应用
+- **GPT-6架构细节曝光** — OpenAI下一代模型引期待，资金主要用于GPT-5.4及下一代研发
+- **中国AI模型日调用量突破120万亿Token** — 阿里Qwen3.6-Plus贡献显著
+- **苹果批准Nvidia eGPU支持Arm架构Mac** — 大幅提升Mac在AI开发方面的能力
 
 **今日洞察**
 
-> 4月3日AI行业上演巨头同日交锋！微软与谷歌几乎同步发布新一代AI模型，在多模态赛道展开正面竞争。谷歌Gemma 4以Apache 2.0许可证全面开源，31B模型性能超越大20倍竞品，标志着开源模型迎来转折点。DeepSeek V4实现纯国产算力训练，不依赖英伟达芯片，国产AI基础设施自主化取得重大突破...
+> 4月5日AI行业上演巨头同日对决！OpenAI和Anthropic几乎同步发布重大产品更新，在多模态和企业级AI赛道展开正面竞争。DALL-E 4将图像生成带入4K时代，Claude 4.5企业级能力大幅提升。与此同时，DeepSeek V4确认采用华为昇腾950芯片，标志着国产AI算力生态取得实质性进展...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/03" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/05" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -67,6 +65,22 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月05日** — [OpenAI发布DALL-E 4+Anthropic发布Claude 4.5+DeepSeek V4搭载华为昇腾950](2026-04/05.md)
+
+<span class="tag tag-ai">4K图像生成</span> <span class="tag tag-primary">企业级AI</span> <span class="tag tag-success">国产算力</span> <span class="tag">巨头对决</span>
+
+</div>
+
+<div class="news-card">
+
+📅 **04月04日** — [Anthropic封杀OpenClaw+阿里千问登顶全球调用榜+DeepSeek V4灰测](2026-04/04.md)
+
+<span class="tag tag-ai">生态博弈</span> <span class="tag tag-primary">国产登顶</span> <span class="tag tag-success">算力自主</span> <span class="tag">开源替代</span>
+
+</div>
 
 <div class="news-card">
 
@@ -267,7 +281,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-03 22:00</em>
+  <em>最后更新：2026-04-05 22:00</em>
 </p>
 
 </div>
