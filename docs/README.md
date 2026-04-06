@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月5日 技术日报](2026-04/05.md)
+### [2026年4月6日 技术日报](2026-04/06.md)
 
 <div class="daily-preview">
 
@@ -16,46 +16,47 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">6</div>
+    <div class="stat-value">7</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">92</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
-    <div class="stat-label">巨头对决</div>
+    <div class="stat-value" style="font-size: 1.75rem;">📊</div>
+    <div class="stat-label">政策驱动</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">4K图像生成</span> <span class="tag tag-primary">企业级AI</span> <span class="tag tag-success">国产算力</span> <span class="tag">巨头对决</span>
+<span class="tag tag-ai">国产登顶</span> <span class="tag tag-primary">OpenAI动荡</span> <span class="tag tag-success">政策红利</span> <span class="tag">开源替代</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **gemma-4** | 35K | 谷歌最强开源模型持续霸榜 |
-| 2 | **oh-my-codex** | 15K | OmX编程助手，日增破千星 |
-| 3 | **onyx** | 24K | 开源AI平台热度持续 |
+| 1 | **claw-code** | 110K | Claude Code开源替代，史上最快破10万星 |
+| 2 | **oh-my-codex** | 18K | OmX编程助手，日增持续破千星 |
+| 3 | **gemma-4** | 38K | 谷歌最强开源模型持续火热 |
 
 **今日 AI 动态**
 
-- **OpenAI发布DALL-E 4** — 图像生成进入4K时代，4096×4096分辨率+视频生成
-- **Anthropic发布Claude 4.5** — 准确率提升35%，上下文窗口达200万token
-- **DeepSeek V4搭载华为昇腾950** — 国产AI芯片在高端大模型训练领域获实质性应用
-- **GPT-6架构细节曝光** — OpenAI下一代模型引期待，资金主要用于GPT-5.4及下一代研发
-- **中国AI模型日调用量突破120万亿Token** — 阿里Qwen3.6-Plus贡献显著
-- **苹果批准Nvidia eGPU支持Arm架构Mac** — 大幅提升Mac在AI开发方面的能力
+- **OpenAI内部分歧曝光** — CEO奥特曼与CFO弗莱尔就IPO时机产生明显分歧
+- **OpenAI"土豆"架构曝光** — 下一代预训练模型浮出水面，GPT-X传闻被打脸
+- **阿里Qwen3.6-Plus登顶全球** — 日调用量破1.4万亿Token，创OpenRouter历史纪录
+- **商务部等六部门发布AI新政** — "人工智能+电商"被列为重点发展方向
+- **智元机器人量产破万** — 远征A3第10000台下线，刷新全球人形机器人量产纪录
+- **豆包日均消耗120万亿Token** — 字节AI算力投入持续加码
+- **具身智能首份行业标准发布** — 工信部批准《YD/T 6770—2026》，6月1日实施
 
 **今日洞察**
 
-> 4月5日AI行业上演巨头同日对决！OpenAI和Anthropic几乎同步发布重大产品更新，在多模态和企业级AI赛道展开正面竞争。DALL-E 4将图像生成带入4K时代，Claude 4.5企业级能力大幅提升。与此同时，DeepSeek V4确认采用华为昇腾950芯片，标志着国产AI算力生态取得实质性进展...
+> 4月6日AI行业呈现政策密集落地与产业格局重塑的双重特征！商务部等六部门发布"人工智能+电商"新政，具身智能行业标准获批，显示政府层面对AI产业的支持力度持续加大。阿里Qwen3.6-Plus日调用量破1.4万亿Token登顶全球，标志着国产大模型获得国际市场实质性认可。与此同时，OpenAI内部动荡，CEO与CFO就IPO时机产生分歧，暴露高速成长AI公司在治理和商业化路径上的挑战...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/05" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/06" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
