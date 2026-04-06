@@ -69,6 +69,14 @@
 
 <div class="news-card">
 
+📅 **04月06日** — [OpenAI内部分歧+阿里Qwen3.6-Plus登顶全球+政策密集落地](2026-04/06.md)
+
+<span class="tag tag-ai">国产登顶</span> <span class="tag tag-primary">OpenAI动荡</span> <span class="tag tag-success">政策红利</span> <span class="tag">开源替代</span>
+
+</div>
+
+<div class="news-card">
+
 📅 **04月05日** — [OpenAI发布DALL-E 4+Anthropic发布Claude 4.5+DeepSeek V4搭载华为昇腾950](2026-04/05.md)
 
 <span class="tag tag-ai">4K图像生成</span> <span class="tag tag-primary">企业级AI</span> <span class="tag tag-success">国产算力</span> <span class="tag">巨头对决</span>
@@ -282,7 +290,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-05 22:30</em>
+  <em>最后更新：2026-04-06 22:00</em>
 </p>
 
 </div>
