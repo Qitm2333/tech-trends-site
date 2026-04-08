@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月7日 技术日报](2026-04/07.md)
+### [2026年4月8日 技术日报](2026-04/08.md)
 
 <div class="daily-preview">
 
@@ -16,50 +16,48 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">10</div>
+    <div class="stat-value">9</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">95</div>
+    <div class="stat-value">96</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
-    <div class="stat-label">国产突破</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🔒</div>
+    <div class="stat-label">限制级发布</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">国产算力</span> <span class="tag tag-primary">具身智能</span> <span class="tag tag-success">开源生态</span> <span class="tag">算力竞赛</span>
+<span class="tag tag-ai">超级模型</span> <span class="tag tag-primary">国产算力</span> <span class="tag tag-success">开源生态</span> <span class="tag">AI安全</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **goose** | 24K | AI编程代理，多模型支持 |
-| 2 | **onyx** | 22K | 开源AI聊天平台，支持多种LLM |
-| 3 | **openscreen** | 17K | 免费高清屏幕录制Demo工具 |
+| 1 | **goose** | 27K | AI编程代理，多模型支持，日增3K |
+| 2 | **onyx** | 24K | 开源AI聊天平台，支持多种LLM |
+| 3 | **oh-my-codex** | 19K | Claude Code扩展，日增2.8K星 |
 
 **今日 AI 动态**
 
+- **Anthropic发布Claude Mythos Preview** — 史上最强模型限制级开放，启动Project Glasswing安全计划
+- **智谱GLM-5.1正式发布并开源** — 综合能力对齐Claude Opus 4.6，再度提价10%
 - **DeepSeek V4全面适配华为昇腾** — 彻底弃用CUDA，国产AI算力实现"真正断奶"
 - **智元机器人启动AI发布周** — 万台量产达成，开源AGIBOT WORLD数据集
 - **Anthropic签210亿美元算力大单** — 订购百万块TPU v7p，年化营收破300亿
 - **面壁智能完成D+轮融资** — 数亿元融资到位，Q1累计超10亿元
-- **美三大AI巨头联手封堵中国模型** — OpenAI、Anthropic、Google联合遏制模型蒸馏
 - **OpenAI发布AI产业政策白皮书** — 呼吁建立公共财富基金与快速响应安全网
 - **Figure 02进入汽车工厂** — 承担装配分拣，具身智能商业化提速
-- **智谱GLM-5.1低调上线** — Arena评分距Claude Opus 4.6仅差2.6分
-- **Meta准备发布新开源模型** — Alexandr Wang领导开发，开源许可提供
-- **阿里千问深度研究升级** — 接入1.3万股票实时行情、百万家上市公司财报
 
 **今日洞察**
 
-> 4月7日AI行业迎来国产算力突破与具身智能爆发的双重里程碑！DeepSeek V4全面适配华为昇腾芯片，标志着国产AI算力实现"真正断奶"，为自主可控奠定坚实基础。智元机器人万台量产达成并开源AGIBOT WORLD数据集，具身智能从实验室走向规模化应用。与此同时，Anthropic签下210亿美元算力大单，AI军备竞赛进入白热化阶段。美三大AI巨头联手封堵中国模型蒸馏，AI入口争夺战正式打响...
+> 4月8日AI行业迎来历史性时刻！Anthropic发布史上最强模型Claude Mythos Preview，因能力过强而限制级开放，标志着AI模型首次因"太强"被管控，AI安全进入新阶段。智谱GLM-5.1正式发布并开源，综合能力对齐Claude Opus 4.6，国产开源模型首次实现与海外头部厂商价格对齐。DeepSeek V4全面适配华为昇腾芯片，国产AI算力实现"真正断奶"，自主可控取得关键突破...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/07" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/08" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -69,6 +67,14 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月08日** — [Anthropic发布Claude Mythos+智谱GLM-5.1开源+国产算力突破](2026-04/08.md)
+
+<span class="tag tag-ai">超级模型</span> <span class="tag tag-primary">国产算力</span> <span class="tag tag-success">开源生态</span> <span class="tag">AI安全</span>
+
+</div>
 
 <div class="news-card">
 
@@ -301,7 +307,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-07 22:00</em>
+  <em>最后更新：2026-04-08 22:00</em>
 </p>
 
 </div>
