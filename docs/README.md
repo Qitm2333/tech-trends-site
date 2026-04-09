@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月8日 技术日报](2026-04/08.md)
+### [2026年4月9日 技术日报](2026-04/09.md)
 
 <div class="daily-preview">
 
@@ -16,48 +16,47 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">9</div>
+    <div class="stat-value">7</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">96</div>
+    <div class="stat-value">95</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🔒</div>
-    <div class="stat-label">限制级发布</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
+    <div class="stat-label">巨头入局</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">超级模型</span> <span class="tag tag-primary">国产算力</span> <span class="tag tag-success">开源生态</span> <span class="tag">AI安全</span>
+<span class="tag tag-ai">Meta入局</span> <span class="tag tag-primary">国产提价</span> <span class="tag tag-success">超级模型</span> <span class="tag">AI安全</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **goose** | 27K | AI编程代理，多模型支持，日增3K |
-| 2 | **onyx** | 24K | 开源AI聊天平台，支持多种LLM |
-| 3 | **oh-my-codex** | 19K | Claude Code扩展，日增2.8K星 |
+| 1 | **goose** | 28K | AI编程代理，多模型支持，日增2.5K |
+| 2 | **onyx** | 25K | 开源AI聊天平台，支持多种LLM |
+| 3 | **oh-my-codex** | 20K | Claude Code扩展，日增2.5K星 |
 
 **今日 AI 动态**
 
+- **Meta发布Muse Spark** — 150亿美元豪赌的翻身之作，正式加入AI大模型第一梯队竞争，股价大涨9%
 - **Anthropic发布Claude Mythos Preview** — 史上最强模型限制级开放，启动Project Glasswing安全计划
-- **智谱GLM-5.1正式发布并开源** — 综合能力对齐Claude Opus 4.6，再度提价10%
-- **DeepSeek V4全面适配华为昇腾** — 彻底弃用CUDA，国产AI算力实现"真正断奶"
-- **智元机器人启动AI发布周** — 万台量产达成，开源AGIBOT WORLD数据集
-- **Anthropic签210亿美元算力大单** — 订购百万块TPU v7p，年化营收破300亿
-- **面壁智能完成D+轮融资** — 数亿元融资到位，Q1累计超10亿元
-- **OpenAI发布AI产业政策白皮书** — 呼吁建立公共财富基金与快速响应安全网
-- **Figure 02进入汽车工厂** — 承担装配分拣，具身智能商业化提速
+- **智谱GLM-5.1正式发布并开源** — 综合能力对齐Claude Opus 4.6，再度提价10%，国产模型价值定价转型
+- **Claude Code v2.1.92发布引发宕机** — 新功能Ultraplan上线当天遭遇史诗级服务中断
+- **DeepSeek网页端新增双模式** — 快速模式和专家模式首次引入模式分层设计
+- **智元Genie Sim 3.0升级** — 支持自然语言生成3D世界，降低具身智能开发门槛
+- **Grok 4.1正式发布** — 256K上下文窗口，原生实时网络检索能力大幅提升
 
 **今日洞察**
 
-> 4月8日AI行业迎来历史性时刻！Anthropic发布史上最强模型Claude Mythos Preview，因能力过强而限制级开放，标志着AI模型首次因"太强"被管控，AI安全进入新阶段。智谱GLM-5.1正式发布并开源，综合能力对齐Claude Opus 4.6，国产开源模型首次实现与海外头部厂商价格对齐。DeepSeek V4全面适配华为昇腾芯片，国产AI算力实现"真正断奶"，自主可控取得关键突破...
+> 4月9日AI行业迎来格局性变化！Meta正式发布Muse Spark，150亿美元豪赌终于迎来翻身之作，标志着Meta正式加入AI大模型第一梯队竞争，与OpenAI、Anthropic、Google正面交锋。智谱GLM-5.1正式发布并开源，再度提价10%，国产大模型首次在核心场景实现与海外头部厂商价格对齐，标志着国产模型从"性价比"向"价值定价"转型。Anthropic发布史上最强模型Claude Mythos Preview，因能力过强而被限制级开放，AI安全进入新阶段...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/08" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/09" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -67,6 +66,14 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月09日** — [Meta发布Muse Spark+智谱GLM-5.1提价+Claude Mythos限制级发布](2026-04/09.md)
+
+<span class="tag tag-ai">Meta入局</span> <span class="tag tag-primary">国产提价</span> <span class="tag tag-success">超级模型</span> <span class="tag">AI安全</span>
+
+</div>
 
 <div class="news-card">
 
@@ -307,7 +314,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-08 22:00</em>
+  <em>最后更新：2026-04-09 22:00</em>
 </p>
 
 </div>
