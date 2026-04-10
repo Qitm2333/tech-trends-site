@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月9日 技术日报](2026-04/09.md)
+### [2026年4月10日 技术日报](2026-04/10.md)
 
 <div class="daily-preview">
 
@@ -16,47 +16,46 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">7</div>
+    <div class="stat-value">6</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">95</div>
+    <div class="stat-value">94</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
-    <div class="stat-label">巨头入局</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🎨</div>
+    <div class="stat-label">多模态爆发</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">Meta入局</span> <span class="tag tag-primary">国产提价</span> <span class="tag tag-success">超级模型</span> <span class="tag">AI安全</span>
+<span class="tag tag-ai">视频生成</span> <span class="tag tag-primary">语音交互</span> <span class="tag tag-success">具身智能</span> <span class="tag">多模态创作</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **goose** | 28K | AI编程代理，多模型支持，日增2.5K |
-| 2 | **onyx** | 25K | 开源AI聊天平台，支持多种LLM |
-| 3 | **oh-my-codex** | 20K | Claude Code扩展，日增2.5K星 |
+| 1 | **goose** | 29K | AI编程代理，多模型支持，日增2K |
+| 2 | **onyx** | 26K | 开源AI聊天平台，支持多种LLM |
+| 3 | **oh-my-codex** | 21K | Claude Code扩展，日增2K星 |
 
 **今日 AI 动态**
 
-- **Meta发布Muse Spark** — 150亿美元豪赌的翻身之作，正式加入AI大模型第一梯队竞争，股价大涨9%
-- **Anthropic发布Claude Mythos Preview** — 史上最强模型限制级开放，启动Project Glasswing安全计划
-- **智谱GLM-5.1正式发布并开源** — 综合能力对齐Claude Opus 4.6，再度提价10%，国产模型价值定价转型
-- **Claude Code v2.1.92发布引发宕机** — 新功能Ultraplan上线当天遭遇史诗级服务中断
-- **DeepSeek网页端新增双模式** — 快速模式和专家模式首次引入模式分层设计
-- **智元Genie Sim 3.0升级** — 支持自然语言生成3D世界，降低具身智能开发门槛
-- **Grok 4.1正式发布** — 256K上下文窗口，原生实时网络检索能力大幅提升
+- **阿里Wan2.7登顶DesignArena榜单** — 视频生成大模型以1334 Elo评分高居榜首，领先第二名68分
+- **字节发布Seeduplex语音大模型** — 原生全双工语音大模型全量上线豆包，对话流畅度提升12%
+- **MiniMax发布Music 2.6与MMX-CLI** — 音乐生成模型首包延迟降至20秒内，Agent命令行工具同步发布
+- **星动纪元登顶具身奥林匹克** — 击败Physical Intelligence，狂揽三项全球冠军
+- **科大讯飞亮相GITEX ASIA** — 携AI眼镜、AINOTE 2等产品参展，拓展AI出海空间
+- **科大讯飞定档4月15日发布会** — 将发布AstronClaw升级与GlassClaw AI眼镜
 
 **今日洞察**
 
-> 4月9日AI行业迎来格局性变化！Meta正式发布Muse Spark，150亿美元豪赌终于迎来翻身之作，标志着Meta正式加入AI大模型第一梯队竞争，与OpenAI、Anthropic、Google正面交锋。智谱GLM-5.1正式发布并开源，再度提价10%，国产大模型首次在核心场景实现与海外头部厂商价格对齐，标志着国产模型从"性价比"向"价值定价"转型。Anthropic发布史上最强模型Claude Mythos Preview，因能力过强而被限制级开放，AI安全进入新阶段...
+> 4月10日AI行业呈现多模态创作工具爆发与具身智能竞技白热化两大趋势！阿里Wan2.7登顶DesignArena视频生成榜单，标志着国产视频生成技术已达全球领先水平。字节Seeduplex全双工语音大模型全量上线豆包，业界首个规模化落地的全双工语音模型，重新定义人机语音交互体验。MiniMax连续发布Music 2.6音乐生成模型和MMX-CLI工具，构建完整AI创作生态。星动纪元击败PI登顶具身奥林匹克，中国具身智能技术展现强劲竞争力...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/09" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/10" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -66,6 +65,14 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月10日** — [阿里Wan2.7登顶+字节Seeduplex发布+星动纪元击败PI](2026-04/10.md)
+
+<span class="tag tag-ai">视频生成</span> <span class="tag tag-primary">语音交互</span> <span class="tag tag-success">具身智能</span> <span class="tag">多模态创作</span>
+
+</div>
 
 <div class="news-card">
 
@@ -314,7 +321,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-09 22:00</em>
+  <em>最后更新：2026-04-10 22:00</em>
 </p>
 
 </div>
