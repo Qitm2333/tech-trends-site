@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月11日 技术日报](2026-04/11.md)
+### [2026年4月12日 技术日报](2026-04/12.md)
 
 <div class="daily-preview">
 
@@ -16,47 +16,46 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">7</div>
+    <div class="stat-value">6</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">96</div>
+    <div class="stat-value">95</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
-    <div class="stat-label">巨头竞速</div>
+    <div class="stat-value" style="font-size: 1.75rem;">⏰</div>
+    <div class="stat-label">发布倒计时</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">GPT-6定档</span> <span class="tag tag-primary">DeepSeek V4</span> <span class="tag tag-success">Anthropic收购</span> <span class="tag">算力竞赛</span>
+<span class="tag tag-ai">GPT-6倒计时</span> <span class="tag tag-primary">Gemma 4开源</span> <span class="tag tag-success">DeepSeek V4</span> <span class="tag">开源生态重构</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **goose** | 30K | AI编程代理，多模型支持，日增1.5K |
-| 2 | **hermes-agent** | 49K | OpenClaw替代，暴涨49000+ Star |
-| 3 | **onyx** | 27K | 开源AI聊天平台，支持多种LLM |
+| 1 | **hermes-agent** | 52K | OpenClaw替代，日增3000+ Star |
+| 2 | **goose** | 31K | AI编程代理，多模型支持 |
+| 3 | **openscreen** | 27K | 免费高清屏幕录制Demo工具 |
 
 **今日 AI 动态**
 
-- **OpenAI官宣GPT-6定档4月14日发布** — 代号"Spud"，200万Token上下文，性能提升40%
+- **OpenAI GPT-6进入最后2天倒计时** — 4月14日正式发布，200万Token上下文，性能提升40%
+- **Google Gemma 4系列开源发布** — Apache 2.0协议，7B参数超越Llama 3-70B
+- **DeepSeek V4官宣4月下旬发布** — 全面适配华为昇腾，国产算力自主可控突破
 - **Anthropic 4亿美元收购Coefficient Bio** — 首次高调布局生命科学领域
-- **DeepSeek V4定档4月下旬发布** — 梁文锋内部官宣，万亿级MoE架构，100万Token上下文
 - **Anthropic与CoreWeave达成算力合作** — CoreWeave集齐四大AI巨头
 - **阿里AI投资3800亿致利润下滑67%** — 设定5年1000亿美元云和AI收入目标
-- **Anthropic封杀OpenClaw事件发酵** — 创始人称兼容Anthropic模型"会变得更难"
-- **美国财长召集大行讨论Claude Mythos威胁** — 摩根大通被点名参与内部测试
 
 **今日洞察**
 
-> 4月11日AI行业迎来军备竞赛全面升级！OpenAI官宣GPT-6定档4月14日发布，200万Token上下文将重新定义长文档处理标准。DeepSeek V4同步定档4月下旬，与腾讯混元同期发布，中美旗舰模型正面交锋在即。Anthropic同日宣布4亿美元收购Coefficient Bio布局生命科学，并与CoreWeave达成算力合作，垂直整合加速。hermes-agent暴涨49000+ Star，OpenClaw被封后开源替代快速崛起...
+> 4月12日AI行业迎来GPT-6发布最后倒计时！OpenAI确认4月14日正式发布GPT-6，200万Token上下文将重新定义长文档处理标准。Google同日发布Gemma 4开源模型系列，采用Apache 2.0协议，7B参数规模首次超越Llama 3-70B，开源模型竞争格局迎来重构。DeepSeek V4官宣4月下旬发布，全面适配华为昇腾芯片，标志着国产算力自主可控的重要突破。hermes-agent暴涨至52000+ Star，Anthropic封杀OpenClaw后开源替代方案爆发...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/11" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/12" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -66,6 +65,14 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月12日** — [GPT-6发布倒计时+Gemma 4开源+DeepSeek V4官宣](2026-04/12.md)
+
+<span class="tag tag-ai">GPT-6倒计时</span> <span class="tag tag-primary">Gemma 4开源</span> <span class="tag tag-success">DeepSeek V4</span> <span class="tag">开源生态重构</span>
+
+</div>
 
 <div class="news-card">
 
@@ -330,7 +337,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-11 22:00</em>
+  <em>最后更新：2026-04-12 22:00</em>
 </p>
 
 </div>
