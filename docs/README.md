@@ -6,7 +6,76 @@
 
 ## 今日日报
 
-### [2026年4月13日 技术日报](2026-04/13.md)
+### [2026年4月14日 技术日报](2026-04/14.md)
+
+<div class="daily-preview">
+
+<div class="stats-grid">
+  <div class="stat-item">
+    <div class="stat-value">10</div>
+    <div class="stat-label">GitHub Top</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value">5</div>
+    <div class="stat-label">AI 新闻</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value">100</div>
+    <div class="stat-label">热度指数</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value" style="font-size: 1.75rem;">🔥</div>
+    <div class="stat-label">正式发布</div>
+  </div>
+</div>
+
+**今日概览**
+
+<span class="tag tag-ai">GPT-6正式发布</span> <span class="tag tag-primary">智能体经济</span> <span class="tag tag-success">全双工语音</span> <span class="tag">国产崛起</span>
+
+**GitHub 热门项目**
+
+| 排名 | 项目 | Stars | 亮点 |
+|:---:|:---|:---:|:---|
+| 1 | **hermes-agent** | 58K | OpenClaw替代，持续霸榜，日增3000+ |
+| 2 | **goose** | 33K | AI编程代理，多模型支持 |
+| 3 | **openscreen** | 29K | 免费高清屏幕录制Demo工具 |
+
+**今日 AI 动态**
+
+- **GPT-6正式发布** — 代号"Spud/土豆"，200万Token上下文，性能提升40%，耗资超20亿美元
+- **阿里千问表格Agent上线** — 自然语言对话直接生成Excel，重构办公体验
+- **豆包12.8.0重大更新** — 全面搭载Seeduplex全双工语音大模型，AI终于能"边听边说"
+- **阿里集团战略会** — 全力推进"智能体经济"，Qwen3.6-Plus单日调用1.4万亿Token
+- **OpenAI内部备忘录泄露** — Q2战略蓝图曝光，五大核心优先事项
+
+**今日洞察**
+
+> 4月14日，OpenAI正式发布GPT-6，代号"Spud（土豆）"，这是OpenAI史上最大规模的模型发布！200万Token上下文（相当于10本《三体》）、40%性能提升、超20亿美元训练成本、约10万张H100 GPU投入，标志着大模型竞赛进入新阶段。同日，阿里千问表格Agent上线，用户通过自然语言即可直接生成、编辑Excel文件，AI办公工具从"提供答案"向"直接交付可用结果"演进。字节豆包12.8.0版本全面搭载Seeduplex全双工语音模型，实现AI"边听边说"的实时交互体验...
+
+<div style="margin-top: var(--space-6); text-align: center;">
+  <a href="#/2026-04/14" class="btn">阅读完整日报 →</a>
+</div>
+
+</div>
+
+---
+
+## 历史归档
+
+### 2026年4月
+
+<div class="news-card">
+
+📅 **04月14日** — [GPT-6正式发布+阿里智能体经济+豆包全双工语音](2026-04/14.md)
+
+<span class="tag tag-ai">GPT-6正式发布</span> <span class="tag tag-primary">智能体经济</span> <span class="tag tag-success">全双工语音</span> <span class="tag">国产崛起</span>
+
+</div>
+
+<div class="news-card">
+
+📅 **04月13日** — [GPT-6明日发布+OpenAI供应链攻击+DeepSeek V4官宣](2026-04/13.md)
 
 <div class="daily-preview">
 
@@ -346,7 +415,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-13 22:00</em>
+  <em>最后更新：2026-04-14 22:00</em>
 </p>
 
 </div>
