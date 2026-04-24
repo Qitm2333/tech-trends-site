@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月23日 技术日报](2026-04/23.md)
+### [2026年4月24日 技术日报](2026-04/24.md)
 
 <div class="daily-preview">
 
@@ -16,49 +16,48 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">9</div>
+    <div class="stat-value">8</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">98</div>
+    <div class="stat-value">97</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🚀</div>
-    <div class="stat-label">智能体爆发</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🤖</div>
+    <div class="stat-label">Agent革命</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">Images 2.0</span> <span class="tag tag-primary">Workspace Agents</span> <span class="tag tag-success">Gemini Enterprise</span> <span class="tag">小米MiMo</span>
+<span class="tag tag-ai">GPT-5.5</span> <span class="tag tag-primary">MiMo-V2.5</span> <span class="tag tag-success">豆包电商</span> <span class="tag">AI办事</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **kimi-audio** | 15K | 月之暗面开源音频模型，日增3,000⭐ |
-| 2 | **TrendRadar** | 53K | AI舆情监控神器，持续增长 |
-| 3 | **openui** | 22K | 自然语言构建UI，AI驱动设计 |
+| 1 | **hermes-agent** | 98K | 自进化AI Agent，日增3,000⭐ |
+| 2 | **TrendRadar** | 54K | AI舆情监控神器，持续增长 |
+| 3 | **openui** | 23K | 自然语言构建UI，AI驱动设计 |
 
 **今日 AI 动态**
 
-- **OpenAI发布Images 2.0** — 全球首个具备"思考"能力的图像生成模型，断层领先
-- **OpenAI发布Workspace Agents** — 企业级AI智能体，ChatGPT进化为"代替工作"
-- **谷歌发布第八代TPU+Gemini Enterprise** — 训练推理首次拆分，企业Agent平台登场
+- **OpenAI发布GPT-5.5** — 成本降97%、效率提50倍，Agent能力飞跃
 - **小米发布MiMo-V2.5系列** — 硬刚GPT-5.4，Pro版本全球开源
-- **DeepSeek V4开启灰度测试** — 百万Token上下文+昇腾深度适配
-- **特斯拉车机接入豆包大模型** — 智能座舱迎来中国芯
+- **字节豆包上线"帮你选"** — 正式切入AI电商赛道，交易闭环
+- **xAI发布语音Agent模型** — grok-voice-think-fast-1.0，支持25种语言
 - **阿里千问对外开放AI办事** — 首家接入东方航空，走出阿里生态
-- **百度发布星云计划** — 全面开放猎户座AI引擎
-- **Anthropic Claude Opus 4.7上线** — 编码能力比4.6高出11%
+- **Kimi K2.6上线遇访问量激增** — 月之暗面全员额度重置补偿
+- **科大讯飞40亿元定增上市** — 加码AI+量子计算布局
+- **Anthropic紧急修复降智问题** — 重置所有订阅用户使用限制
 
 **今日洞察**
 
-> 4月23日，AI行业迎来企业智能体爆发日！OpenAI无预警发布Images 2.0（首个具备"思考"推理能力的图像模型）和Workspace Agents企业智能体，谷歌同日发布第八代TPU和Gemini Enterprise Agent Platform，两大巨头不约而同押注企业AI自动化。小米深夜发布MiMo-V2.5系列并开源Pro版本，硬刚GPT-5.4。DeepSeek V4开启灰度测试，1M上下文+昇腾适配标志着国产算力自主可控迈出关键一步。特斯拉车机正式接入豆包，阿里千问对外开放AI办事能力，国产AI生态加速融入实体经济...
+> 4月24日，AI行业迎来GPT-5.5 Agent革命！OpenAI正式发布GPT-5.5，Token成本降至前代1/35，输出效率提升50倍，Terminal-Bench准确率达82.7%，标志着AI从"对话工具"向"自主执行"的质变。小米MiMo-V2.5系列开源Pro版本，国产大模型开源潮持续高涨。字节豆包正式上线"帮你选"购物功能，AI电商元年正式开启。xAI发布语音Agent旗舰模型，语音交互向复杂工作流场景渗透。国产AI生态正从"追赶"走向"引领"...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/23" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/24" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -68,6 +67,14 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月24日** — [GPT-5.5 Agent革命+国产大模型开源潮+AI电商元年](2026-04/24.md)
+
+<span class="tag tag-ai">GPT-5.5</span> <span class="tag tag-primary">MiMo-V2.5</span> <span class="tag tag-success">豆包电商</span> <span class="tag">AI办事</span>
+
+</div>
 
 <div class="news-card">
 
@@ -505,7 +512,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-23 22:00</em>
+  <em>最后更新：2026-04-24 22:00</em>
 </p>
 
 </div>
