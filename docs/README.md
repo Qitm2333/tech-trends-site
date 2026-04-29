@@ -6,7 +6,7 @@
 
 ## 今日日报
 
-### [2026年4月24日 技术日报](2026-04/24.md)
+### [2026年4月28日 技术日报](2026-04/28.md)
 
 <div class="daily-preview">
 
@@ -16,48 +16,46 @@
     <div class="stat-label">GitHub Top</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">8</div>
+    <div class="stat-value">7</div>
     <div class="stat-label">AI 新闻</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value">97</div>
+    <div class="stat-value">91</div>
     <div class="stat-label">热度指数</div>
   </div>
   <div class="stat-item">
-    <div class="stat-value" style="font-size: 1.75rem;">🤖</div>
-    <div class="stat-label">Agent革命</div>
+    <div class="stat-value" style="font-size: 1.75rem;">🌍</div>
+    <div class="stat-label">生态开放</div>
   </div>
 </div>
 
 **今日概览**
 
-<span class="tag tag-ai">GPT-5.5</span> <span class="tag tag-primary">MiMo-V2.5</span> <span class="tag tag-success">豆包电商</span> <span class="tag">AI办事</span>
+<span class="tag tag-ai">开放生态</span> <span class="tag tag-primary">国产崛起</span> <span class="tag tag-success">融资热潮</span> <span class="tag">AI for Science</span>
 
 **GitHub 热门项目**
 
 | 排名 | 项目 | Stars | 亮点 |
 |:---:|:---|:---:|:---|
-| 1 | **hermes-agent** | 98K | 自进化AI Agent，日增3,000⭐ |
-| 2 | **TrendRadar** | 54K | AI舆情监控神器，持续增长 |
-| 3 | **openui** | 23K | 自然语言构建UI，AI驱动设计 |
+| 1 | **hermes-agent** | 105K | 自进化AI Agent，持续霸榜 |
+| 2 | **TrendRadar** | 57K | AI舆情监控神器，稳定增长 |
+| 3 | **DeepTutor** | 11K | 开源AI辅导工具，教育新星 |
 
 **今日 AI 动态**
 
-- **OpenAI发布GPT-5.5** — 成本降97%、效率提50倍，Agent能力飞跃
-- **小米发布MiMo-V2.5系列** — 硬刚GPT-5.4，Pro版本全球开源
-- **字节豆包上线"帮你选"** — 正式切入AI电商赛道，交易闭环
-- **xAI发布语音Agent模型** — grok-voice-think-fast-1.0，支持25种语言
-- **阿里千问对外开放AI办事** — 首家接入东方航空，走出阿里生态
-- **Kimi K2.6上线遇访问量激增** — 月之暗面全员额度重置补偿
-- **科大讯飞40亿元定增上市** — 加码AI+量子计算布局
-- **Anthropic紧急修复降智问题** — 重置所有订阅用户使用限制
+- **OpenAI与微软独家协议终结** — 模型开放给所有云厂商，AWS率先接入
+- **中国科学院发布"磐石100"** — AI for Science进入平台化创新阶段，八大学科覆盖
+- **DeepSeek启动首次外部融资** — 估值超100亿美元，国产开源模型获资本认可
+- **中国三家企业入选《时代》AI十强** — 阿里、字节、智谱获国际权威认可
+- **豆包大模型覆盖700万辆汽车** — 火山引擎发布新一代汽车AI方案
+- **Ineffable Intelligence创纪录融资** — 11亿美元种子轮，欧洲最大
 
 **今日洞察**
 
-> 4月24日，AI行业迎来GPT-5.5 Agent革命！OpenAI正式发布GPT-5.5，Token成本降至前代1/35，输出效率提升50倍，Terminal-Bench准确率达82.7%，标志着AI从"对话工具"向"自主执行"的质变。小米MiMo-V2.5系列开源Pro版本，国产大模型开源潮持续高涨。字节豆包正式上线"帮你选"购物功能，AI电商元年正式开启。xAI发布语音Agent旗舰模型，语音交互向复杂工作流场景渗透。国产AI生态正从"追赶"走向"引领"...
+> 4月28日，AI行业迎来开放生态与产业格局重塑的关键一天！OpenAI终结与微软的独家协议，转向多云开放战略，标志着AI模型分发进入"无边界"时代。中国科学院发布"磐石100"模型体系，推动AI for Science从单点探索进入平台化创新阶段。更值得关注的是，阿里巴巴、字节跳动、智谱三家中国企业同时入选《时代》全球十大最具影响力AI公司，标志着中国AI力量正式获得国际权威认可，从"跟跑"走向"并跑"。DeepSeek启动首次外部融资估值超100亿美元，开源AI商业模式获得资本市场高度认可...
 
 <div style="margin-top: var(--space-6); text-align: center;">
-  <a href="#/2026-04/24" class="btn">阅读完整日报 →</a>
+  <a href="#/2026-04/28" class="btn">阅读完整日报 →</a>
 </div>
 
 </div>
@@ -67,6 +65,87 @@
 ## 历史归档
 
 ### 2026年4月
+
+<div class="news-card">
+
+📅 **04月28日** — [开源生态爆发+AI产业格局重塑+中国AI国际崛起](2026-04/28.md)
+
+<span class="tag tag-ai">开放生态</span> <span class="tag tag-primary">国产崛起</span> <span class="tag tag-success">融资热潮</span> <span class="tag">AI for Science</span>
+
+</div>
+
+<div class="news-card">
+
+📅 **04月27日** — [阿里HappyHorse视频生成模型开放测试+AI应用深化](2026-04/27.md)
+
+<span class="tag tag-ai">HappyHorse</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">API开放</span> <span class="tag">Hermes Agent</span>
+
+</div>
+
+<div class="daily-preview">
+
+<div class="stats-grid">
+  <div class="stat-item">
+    <div class="stat-value">10</div>
+    <div class="stat-label">GitHub Top</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value">2</div>
+    <div class="stat-label">AI 新闻</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value">82</div>
+    <div class="stat-label">热度指数</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-value" style="font-size: 1.75rem;">🎬</div>
+    <div class="stat-label">视频生成</div>
+  </div>
+</div>
+
+**今日概览**
+
+<span class="tag tag-ai">HappyHorse</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">API开放</span> <span class="tag">Hermes Agent</span>
+
+**GitHub 热门项目**
+
+| 排名 | 项目 | Stars | 亮点 |
+|:---:|:---|:---:|:---|
+| 1 | **hermes-agent** | 102K | 自进化AI Agent，突破10万⭐ |
+| 2 | **TrendRadar** | 56K | AI舆情监控神器，稳定增长 |
+| 3 | **openui** | 24K | 自然语言构建UI，AI驱动设计 |
+
+**今日 AI 动态**
+
+- **阿里HappyHorse开放API测试** — AI视频生成模型登顶全球榜单，企业级客户首批邀测
+- **OpenAI发布"Our principles"** — 阐述AI发展核心原则，强调安全与对齐
+- **Hermes Agent突破10万星** — 自进化AI Agent持续霸榜GitHub Trending
+- **周末效应显现** — 头部厂商新品发布平静，行业进入短暂休整期
+- **AI应用落地加速** — 从模型发布转向API开放和商业化落地
+
+**今日洞察**
+
+> 4月27日，AI行业进入周末休整期，但阿里HappyHorse视频生成模型的API开放测试成为亮点。该模型此前登顶Artificial Analysis全球榜单，性能超越字节Seedance 2.0等竞品，标志着国产AI视频生成技术迈向新阶段。同时，开源AI项目Hermes Agent突破10万星，成为2026年最热门的开源项目之一，展现了AI Agent领域的持续热度。行业正从"模型竞赛"转向"应用落地"，API开放和商业化成为新的竞争焦点...
+
+<div style="margin-top: var(--space-6); text-align: center;">
+  <a href="#/2026-04/27" class="btn">阅读完整日报 →</a>
+</div>
+
+</div>
+
+---
+
+## 历史归档
+
+### 2026年4月
+
+<div class="news-card">
+
+📅 **04月27日** — [阿里HappyHorse视频生成模型开放测试+AI应用深化](2026-04/27.md)
+
+<span class="tag tag-ai">HappyHorse</span> <span class="tag tag-primary">视频生成</span> <span class="tag tag-success">API开放</span> <span class="tag">Hermes Agent</span>
+
+</div>
 
 <div class="news-card">
 
@@ -512,7 +591,7 @@
 <p>每日技术趋势追踪</p>
 
 <p style="margin-top: var(--space-4);">
-  <em>最后更新：2026-04-24 22:00</em>
+  <em>最后更新：2026-04-28 22:00</em>
 </p>
 
 </div>
